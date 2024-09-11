@@ -1,0 +1,520 @@
+
+
+<table style="border: 1px solid #a59f9f;">
+    <tr style="font-weight: bold">
+            <td style="border: 1px solid #a59f9f;">WWRatesQUAL</td>
+            <td style="border: 1px solid #a59f9f;">GRRatesQual</td>
+            <td style="border: 1px solid #a59f9f;">SumSewerConns</td>
+            <td style="border: 1px solid #a59f9f;">SumSewerDem</td>
+    </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">37.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">256.000000</td>
+                <td style="border: 1px solid #a59f9f;">851.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">289.000000</td>
+                <td style="border: 1px solid #a59f9f;">405.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">13.000000</td>
+                <td style="border: 1px solid #a59f9f;">13.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+                <td style="border: 1px solid #a59f9f;">19.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50% Commercial</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">7.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">5369.000000</td>
+                <td style="border: 1px solid #a59f9f;">5417.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+                <td style="border: 1px solid #a59f9f;">73.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">111.000000</td>
+                <td style="border: 1px solid #a59f9f;">251.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">20.000000</td>
+                <td style="border: 1px solid #a59f9f;">20.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">251.000000</td>
+                <td style="border: 1px solid #a59f9f;">251.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Lake Hayes Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Queenstown Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Arthurs Point</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com C/Dwg</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Arthurs Point</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">42.000000</td>
+                <td style="border: 1px solid #a59f9f;">42.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Lake Hayes Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">37.000000</td>
+                <td style="border: 1px solid #a59f9f;">37.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Queenstown Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">88.000000</td>
+                <td style="border: 1px solid #a59f9f;">88.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Arthurs Point</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">43.000000</td>
+                <td style="border: 1px solid #a59f9f;">58.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">619.000000</td>
+                <td style="border: 1px solid #a59f9f;">1324.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">292.000000</td>
+                <td style="border: 1px solid #a59f9f;">530.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Arrowtown Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">39.000000</td>
+                <td style="border: 1px solid #a59f9f;">39.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Hawea Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">30.000000</td>
+                <td style="border: 1px solid #a59f9f;">30.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Wanaka Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">179.000000</td>
+                <td style="border: 1px solid #a59f9f;">180.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Luggate</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">72.000000</td>
+                <td style="border: 1px solid #a59f9f;">72.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1275.000000</td>
+                <td style="border: 1px solid #a59f9f;">1277.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">5682.000000</td>
+                <td style="border: 1px solid #a59f9f;">5762.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">33.000000</td>
+                <td style="border: 1px solid #a59f9f;">212.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">17.000000</td>
+                <td style="border: 1px solid #a59f9f;">203.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">28.000000</td>
+                <td style="border: 1px solid #a59f9f;">119.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">1753.000000</td>
+                <td style="border: 1px solid #a59f9f;">5496.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">53.000000</td>
+                <td style="border: 1px solid #a59f9f;">646.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">29.000000</td>
+                <td style="border: 1px solid #a59f9f;">164.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Lake Hayes Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Luggate Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Wanaka Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com. 10%</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">94.000000</td>
+                <td style="border: 1px solid #a59f9f;">95.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">707.000000</td>
+                <td style="border: 1px solid #a59f9f;">716.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Arthurs Point</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+                <td style="border: 1px solid #a59f9f;">37.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+                <td style="border: 1px solid #a59f9f;">72.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Arthurs Point Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">22.000000</td>
+                <td style="border: 1px solid #a59f9f;">22.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">11.000000</td>
+                <td style="border: 1px solid #a59f9f;">62.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Arthurs Point</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">41.000000</td>
+                <td style="border: 1px solid #a59f9f;">304.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">379.000000</td>
+                <td style="border: 1px solid #a59f9f;">734.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">7.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Luggate</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">57.000000</td>
+                <td style="border: 1px solid #a59f9f;">57.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Arrowtown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">81.000000</td>
+                <td style="border: 1px solid #a59f9f;">81.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Hawea Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Wanaka Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">16.000000</td>
+                <td style="border: 1px solid #a59f9f;">16.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Arthurs Point Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">39.000000</td>
+                <td style="border: 1px solid #a59f9f;">39.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com C/Dwg</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">49.000000</td>
+                <td style="border: 1px solid #a59f9f;">49.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Luggate</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">34.000000</td>
+                <td style="border: 1px solid #a59f9f;">34.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">610.000000</td>
+                <td style="border: 1px solid #a59f9f;">613.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Arrowtown Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Wanaka Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">52.000000</td>
+                <td style="border: 1px solid #a59f9f;">52.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Queenstown</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Lake Hayes Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">310.000000</td>
+                <td style="border: 1px solid #a59f9f;">310.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Luggate Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage Queenstown Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">758.000000</td>
+                <td style="border: 1px solid #a59f9f;">758.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Arthurs Point</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">379.000000</td>
+                <td style="border: 1px solid #a59f9f;">379.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage - Lake Hayes</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1324.000000</td>
+                <td style="border: 1px solid #a59f9f;">1324.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Sewerage-Hawea</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">953.000000</td>
+                <td style="border: 1px solid #a59f9f;">953.000000</td>
+        </tr>
+</table>

@@ -1,0 +1,104 @@
+
+
+<table style="border: 1px solid #a59f9f;">
+    <tr style="font-weight: bold">
+            <td style="border: 1px solid #a59f9f;">GRRatesQual</td>
+            <td style="border: 1px solid #a59f9f;">SUIPs</td>
+            <td style="border: 1px solid #a59f9f;">AccomRooms</td>
+    </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">2401.000000</td>
+                <td style="border: 1px solid #a59f9f;">4119.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">2599.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">321.000000</td>
+                <td style="border: 1px solid #a59f9f;">58.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com. 10%</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1651.000000</td>
+                <td style="border: 1px solid #a59f9f;">503.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">982.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">155.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1481.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">89.000000</td>
+                <td style="border: 1px solid #a59f9f;">439.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">702.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Hydro/Utility</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">3871.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate 50% Commercial</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">2726.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">16462.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com C/Dwg</td>
+                <td style="border: 1px solid #a59f9f;">19.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">75.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.00000000</td>
+        </tr>
+</table>

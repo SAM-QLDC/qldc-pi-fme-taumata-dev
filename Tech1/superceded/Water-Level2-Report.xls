@@ -1,0 +1,1372 @@
+
+
+<table style="border: 1px solid #a59f9f;">
+    <tr style="font-weight: bold">
+            <td style="border: 1px solid #a59f9f;">WSRatesQUAL</td>
+            <td style="border: 1px solid #a59f9f;">WSRatesQualLU</td>
+            <td style="border: 1px solid #a59f9f;">GRRatesQual</td>
+            <td style="border: 1px solid #a59f9f;">WaterConns</td>
+            <td style="border: 1px solid #a59f9f;">WaterSUIPs</td>
+            <td style="border: 1px solid #a59f9f;">WaterDemUnits</td>
+    </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">25</td>
+                <td style="border: 1px solid #a59f9f;">47.000000</td>
+                <td style="border: 1px solid #a59f9f;">47.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Atn Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">14</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown CBD Comm.</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">9</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+                <td style="border: 1px solid #a59f9f;">68.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">16</td>
+                <td style="border: 1px solid #a59f9f;">16.000000</td>
+                <td style="border: 1px solid #a59f9f;">16.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">10</td>
+                <td style="border: 1px solid #a59f9f;">11.000000</td>
+                <td style="border: 1px solid #a59f9f;">11.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">100.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">22</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">32</td>
+                <td style="border: 1px solid #a59f9f;">33.000000</td>
+                <td style="border: 1px solid #a59f9f;">33.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">927</td>
+                <td style="border: 1px solid #a59f9f;">945.000000</td>
+                <td style="border: 1px solid #a59f9f;">945.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com C/Dwg</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Mixed Use Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">12</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">166</td>
+                <td style="border: 1px solid #a59f9f;">167.000000</td>
+                <td style="border: 1px solid #a59f9f;">167.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge - .50</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">45</td>
+                <td style="border: 1px solid #a59f9f;">45.000000</td>
+                <td style="border: 1px solid #a59f9f;">45.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">19</td>
+                <td style="border: 1px solid #a59f9f;">19.000000</td>
+                <td style="border: 1px solid #a59f9f;">19.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">578</td>
+                <td style="border: 1px solid #a59f9f;">625.000000</td>
+                <td style="border: 1px solid #a59f9f;">625.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water -Wanaka Primary Industry</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water-Glenorchy Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water-Wanaka M/Use Accom/CDwg</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">21</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Atn Mixed Use Accom/Res plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">11</td>
+                <td style="border: 1px solid #a59f9f;">24.000000</td>
+                <td style="border: 1px solid #a59f9f;">24.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Glenorchy Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Hawea Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">30</td>
+                <td style="border: 1px solid #a59f9f;">60.000000</td>
+                <td style="border: 1px solid #a59f9f;">60.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Lake Hayes Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">6</td>
+                <td style="border: 1px solid #a59f9f;">12.000000</td>
+                <td style="border: 1px solid #a59f9f;">12.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Lake Hayes Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtn Mixed Use Accom/Res plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtn Mixed Use Accom/Res plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">85</td>
+                <td style="border: 1px solid #a59f9f;">173.000000</td>
+                <td style="border: 1px solid #a59f9f;">173.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">696</td>
+                <td style="border: 1px solid #a59f9f;">1512.000000</td>
+                <td style="border: 1px solid #a59f9f;">1512.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Accom/Res plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Accom/Res plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">51</td>
+                <td style="border: 1px solid #a59f9f;">103.000000</td>
+                <td style="border: 1px solid #a59f9f;">103.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Point Primary Industry</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Other</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1125</td>
+                <td style="border: 1px solid #a59f9f;">1131.000000</td>
+                <td style="border: 1px solid #a59f9f;">1131.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Mixed Use Qtn 10%</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com. 10%</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Mixed Use Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">551</td>
+                <td style="border: 1px solid #a59f9f;">705.000000</td>
+                <td style="border: 1px solid #a59f9f;">705.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Primary Industry</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residential</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">11</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">50</td>
+                <td style="border: 1px solid #a59f9f;">50.000000</td>
+                <td style="border: 1px solid #a59f9f;">50.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Residential</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Atn Primary Industry</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Mixed Use Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown - Other</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">121</td>
+                <td style="border: 1px solid #a59f9f;">121.000000</td>
+                <td style="border: 1px solid #a59f9f;">121.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">174</td>
+                <td style="border: 1px solid #a59f9f;">183.000000</td>
+                <td style="border: 1px solid #a59f9f;">183.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">69</td>
+                <td style="border: 1px solid #a59f9f;">70.000000</td>
+                <td style="border: 1px solid #a59f9f;">70.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">0.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Residential</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">9</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka - Other</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water -Wanaka Primary Industry</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">21</td>
+                <td style="border: 1px solid #a59f9f;">21.000000</td>
+                <td style="border: 1px solid #a59f9f;">21.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Art Point Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">8</td>
+                <td style="border: 1px solid #a59f9f;">16.000000</td>
+                <td style="border: 1px solid #a59f9f;">16.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Art Point Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Glenorchy Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Lake Hayes Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtn M/Use Accom/CDwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">174</td>
+                <td style="border: 1px solid #a59f9f;">360.000000</td>
+                <td style="border: 1px solid #a59f9f;">360.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">14</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">30</td>
+                <td style="border: 1px solid #a59f9f;">30.000000</td>
+                <td style="border: 1px solid #a59f9f;">30.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+                <td style="border: 1px solid #a59f9f;">9.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Country Dwelling</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">33</td>
+                <td style="border: 1px solid #a59f9f;">40.000000</td>
+                <td style="border: 1px solid #a59f9f;">40.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Mixed Use Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">346</td>
+                <td style="border: 1px solid #a59f9f;">868.000000</td>
+                <td style="border: 1px solid #a59f9f;">868.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Queenstown Other</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Commercial</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Atn Mixed Use Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Atn Mixed Use Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">93</td>
+                <td style="border: 1px solid #a59f9f;">93.000000</td>
+                <td style="border: 1px solid #a59f9f;">93.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown CBD Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">14</td>
+                <td style="border: 1px solid #a59f9f;">65.000000</td>
+                <td style="border: 1px solid #a59f9f;">65.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Glenorchy Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Hydro/Utility</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">17</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">6</td>
+                <td style="border: 1px solid #a59f9f;">7.000000</td>
+                <td style="border: 1px solid #a59f9f;">7.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">166</td>
+                <td style="border: 1px solid #a59f9f;">166.000000</td>
+                <td style="border: 1px solid #a59f9f;">166.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg - .50</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Primary Ind.</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Luggate Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka - Other</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Hydro/Utility</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">58</td>
+                <td style="border: 1px solid #a59f9f;">182.000000</td>
+                <td style="border: 1px solid #a59f9f;">182.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water -Wanaka Country Dwelling</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">137</td>
+                <td style="border: 1px solid #a59f9f;">312.000000</td>
+                <td style="border: 1px solid #a59f9f;">312.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water-Glenorchy Commercial</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Art Point Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">12</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Lake Hayes Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom/Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">37</td>
+                <td style="border: 1px solid #a59f9f;">74.000000</td>
+                <td style="border: 1px solid #a59f9f;">74.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Luggate Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Qtown Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtn Mixed Use Accom/Res plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">16</td>
+                <td style="border: 1px solid #a59f9f;">41.000000</td>
+                <td style="border: 1px solid #a59f9f;">52.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50% Commercial</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Country Dwelling</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">28</td>
+                <td style="border: 1px solid #a59f9f;">29.000000</td>
+                <td style="border: 1px solid #a59f9f;">29.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtown Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">24</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+                <td style="border: 1px solid #a59f9f;">26.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Commercial</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">12</td>
+                <td style="border: 1px solid #a59f9f;">12.000000</td>
+                <td style="border: 1px solid #a59f9f;">12.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50% Commercial</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Queenstown CBD Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">110</td>
+                <td style="border: 1px solid #a59f9f;">452.000000</td>
+                <td style="border: 1px solid #a59f9f;">452.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1166</td>
+                <td style="border: 1px solid #a59f9f;">1278.000000</td>
+                <td style="border: 1px solid #a59f9f;">1278.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Atn Country Dwelling</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">13</td>
+                <td style="border: 1px solid #a59f9f;">89.000000</td>
+                <td style="border: 1px solid #a59f9f;">89.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water -Arrowtown Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">19</td>
+                <td style="border: 1px solid #a59f9f;">28.000000</td>
+                <td style="border: 1px solid #a59f9f;">35.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown CBD Accom.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">288</td>
+                <td style="border: 1px solid #a59f9f;">288.000000</td>
+                <td style="border: 1px solid #a59f9f;">288.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Hawea Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">12</td>
+                <td style="border: 1px solid #a59f9f;">13.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">229</td>
+                <td style="border: 1px solid #a59f9f;">353.000000</td>
+                <td style="border: 1px solid #a59f9f;">353.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">29</td>
+                <td style="border: 1px solid #a59f9f;">38.000000</td>
+                <td style="border: 1px solid #a59f9f;">38.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">48</td>
+                <td style="border: 1px solid #a59f9f;">49.000000</td>
+                <td style="border: 1px solid #a59f9f;">49.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">9</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+                <td style="border: 1px solid #a59f9f;">10.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Lake Hayes Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">1313</td>
+                <td style="border: 1px solid #a59f9f;">1338.000000</td>
+                <td style="border: 1px solid #a59f9f;">1338.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1186</td>
+                <td style="border: 1px solid #a59f9f;">1190.000000</td>
+                <td style="border: 1px solid #a59f9f;">1190.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">137</td>
+                <td style="border: 1px solid #a59f9f;">416.000000</td>
+                <td style="border: 1px solid #a59f9f;">635.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">17</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+                <td style="border: 1px solid #a59f9f;">18.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">5345</td>
+                <td style="border: 1px solid #a59f9f;">5750.000000</td>
+                <td style="border: 1px solid #a59f9f;">5750.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka - Other</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka CBD Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">8</td>
+                <td style="border: 1px solid #a59f9f;">29.000000</td>
+                <td style="border: 1px solid #a59f9f;">89.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water-Glenorchy Commercial</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">181</td>
+                <td style="border: 1px solid #a59f9f;">371.000000</td>
+                <td style="border: 1px solid #a59f9f;">371.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Arrowtown Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arrowtown Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">38</td>
+                <td style="border: 1px solid #a59f9f;">78.000000</td>
+                <td style="border: 1px solid #a59f9f;">78.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Hawea Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Lake Hayes Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Acc/CDwg Flat</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Lake Hayes Ann Chg Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">309</td>
+                <td style="border: 1px solid #a59f9f;">622.000000</td>
+                <td style="border: 1px solid #a59f9f;">622.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Luggate Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water Wanaka Ann Charge Res Flat</td>
+                <td style="border: 1px solid #a59f9f;">Water - Wanaka Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Arthurs Point Annual Chg</td>
+                <td style="border: 1px solid #a59f9f;">Water - Arthurs Pt Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">304</td>
+                <td style="border: 1px solid #a59f9f;">376.000000</td>
+                <td style="border: 1px solid #a59f9f;">376.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">4</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtn M/Use Accom/CDwg</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Qtn M/Use Comm/CDwg</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com C/Dwg</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+                <td style="border: 1px solid #a59f9f;">4.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Queenstown Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">350</td>
+                <td style="border: 1px solid #a59f9f;">1755.000000</td>
+                <td style="border: 1px solid #a59f9f;">2974.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Queenstown CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">18</td>
+                <td style="border: 1px solid #a59f9f;">58.000000</td>
+                <td style="border: 1px solid #a59f9f;">349.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water - Queenstown Residential</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">3303</td>
+                <td style="border: 1px solid #a59f9f;">5313.000000</td>
+                <td style="border: 1px solid #a59f9f;">5313.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Queenstown CBD Comm.</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50% Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Water-Queenstown Annual Charge</td>
+                <td style="border: 1px solid #a59f9f;">Water Queenstown Other</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+</table>

@@ -1,0 +1,284 @@
+
+
+<table style="border: 1px solid #a59f9f;">
+    <tr style="font-weight: bold">
+            <td style="border: 1px solid #a59f9f;">SWRatesQUAL</td>
+            <td style="border: 1px solid #a59f9f;">GRRatesQual</td>
+            <td style="border: 1px solid #a59f9f;">StormConns</td>
+            <td style="border: 1px solid #a59f9f;">StormSUIPs</td>
+            <td style="border: 1px solid #a59f9f;">StormDemUnits</td>
+    </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater CBD Comm Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">58</td>
+                <td style="border: 1px solid #a59f9f;">182.000000</td>
+                <td style="border: 1px solid #a59f9f;">182.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Commercial Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater C/Dwg Flat Wan</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residence plus Flat Wak</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/U Accom Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">765</td>
+                <td style="border: 1px solid #a59f9f;">929.000000</td>
+                <td style="border: 1px solid #a59f9f;">929.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Other Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+                <td style="border: 1px solid #a59f9f;">5.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Other Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Other</td>
+                <td style="border: 1px solid #a59f9f;">8</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Vacant Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1843</td>
+                <td style="border: 1px solid #a59f9f;">1855.000000</td>
+                <td style="border: 1px solid #a59f9f;">1855.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Vacant Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1671</td>
+                <td style="border: 1px solid #a59f9f;">1677.000000</td>
+                <td style="border: 1px solid #a59f9f;">1677.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater 50% Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater 50% Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50% Commercial</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+                <td style="border: 1px solid #a59f9f;">6.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Commercial Wak</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">437</td>
+                <td style="border: 1px solid #a59f9f;">1000.000000</td>
+                <td style="border: 1px solid #a59f9f;">1000.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residence plus Flat Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">207</td>
+                <td style="border: 1px solid #a59f9f;">426.000000</td>
+                <td style="border: 1px solid #a59f9f;">426.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residential Wak</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">6587</td>
+                <td style="border: 1px solid #a59f9f;">8819.000000</td>
+                <td style="border: 1px solid #a59f9f;">8819.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residential Wak</td>
+                <td style="border: 1px solid #a59f9f;"></td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater CBD Accom Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">8</td>
+                <td style="border: 1px solid #a59f9f;">29.000000</td>
+                <td style="border: 1px solid #a59f9f;">89.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater CBD Comm Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Commercial</td>
+                <td style="border: 1px solid #a59f9f;">124</td>
+                <td style="border: 1px solid #a59f9f;">517.000000</td>
+                <td style="border: 1px solid #a59f9f;">517.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Utility Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Hydro/Utility</td>
+                <td style="border: 1px solid #a59f9f;">17</td>
+                <td style="border: 1px solid #a59f9f;">17.000000</td>
+                <td style="border: 1px solid #a59f9f;">17.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/U Accom Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">34</td>
+                <td style="border: 1px solid #a59f9f;">34.000000</td>
+                <td style="border: 1px solid #a59f9f;">34.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater - M/Use Wak 10%</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Com. 10%</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/U Comm Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">49</td>
+                <td style="border: 1px solid #a59f9f;">52.000000</td>
+                <td style="border: 1px solid #a59f9f;">52.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater 50% Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Vacant Sections</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+                <td style="border: 1px solid #a59f9f;">1.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residence plus Flat Wak</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1074</td>
+                <td style="border: 1px solid #a59f9f;">2276.000000</td>
+                <td style="border: 1px solid #a59f9f;">2276.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Other Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Country Dwg</td>
+                <td style="border: 1px solid #a59f9f;">176</td>
+                <td style="border: 1px solid #a59f9f;">177.000000</td>
+                <td style="border: 1px solid #a59f9f;">177.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residential Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Utility Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Hydro/Utility</td>
+                <td style="border: 1px solid #a59f9f;">14</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+                <td style="border: 1px solid #a59f9f;">14.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/Use C/Dwg Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - M/Use Accom/CDw</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/U Accom Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Accom</td>
+                <td style="border: 1px solid #a59f9f;">620</td>
+                <td style="border: 1px solid #a59f9f;">668.000000</td>
+                <td style="border: 1px solid #a59f9f;">668.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/u Comm Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Mixed Use Comm.</td>
+                <td style="border: 1px solid #a59f9f;">22</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+                <td style="border: 1px solid #a59f9f;">23.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater 50% Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate 50%</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Commercial Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Commercial</td>
+                <td style="border: 1px solid #a59f9f;">213</td>
+                <td style="border: 1px solid #a59f9f;">451.000000</td>
+                <td style="border: 1px solid #a59f9f;">451.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residential Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">6518</td>
+                <td style="border: 1px solid #a59f9f;">6946.000000</td>
+                <td style="border: 1px solid #a59f9f;">6946.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Vacant Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">3</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+                <td style="border: 1px solid #a59f9f;">3.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Accom Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">412</td>
+                <td style="border: 1px solid #a59f9f;">1901.000000</td>
+                <td style="border: 1px solid #a59f9f;">3375.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Accom Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Accommodation</td>
+                <td style="border: 1px solid #a59f9f;">153</td>
+                <td style="border: 1px solid #a59f9f;">473.000000</td>
+                <td style="border: 1px solid #a59f9f;">739.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater CBD Accom Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - CBD Accomm.</td>
+                <td style="border: 1px solid #a59f9f;">19</td>
+                <td style="border: 1px solid #a59f9f;">60.000000</td>
+                <td style="border: 1px solid #a59f9f;">350.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Residence plus Flat Wanaka</td>
+                <td style="border: 1px solid #a59f9f;">General Rate - Ctry Dwg plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">5</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+                <td style="border: 1px solid #a59f9f;">8.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater Vacant Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residence plus Flat</td>
+                <td style="border: 1px solid #a59f9f;">1</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+        <tr>
+                <td style="border: 1px solid #a59f9f;">Stormwater M/U Accom Wakatipu</td>
+                <td style="border: 1px solid #a59f9f;">General Rate Residential</td>
+                <td style="border: 1px solid #a59f9f;">2</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+                <td style="border: 1px solid #a59f9f;">2.000000</td>
+        </tr>
+</table>

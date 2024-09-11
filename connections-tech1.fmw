@@ -1,0 +1,1645 @@
+#! <?xml version="1.0" encoding="UTF-8" ?>
+#! <WORKSPACE
+#    Command line to run this workspace:
+#        "C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\fme.exe" C:\Github\qldc-pi-fme-taumata-dev\connections-tech1.fmw
+#          --FME_LAUNCH_VIEWER_APP "YES"
+#    
+#!   A0_PREVIEW_IMAGE="data:image/png;base64,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"
+#!   ARCGIS_COMPATIBILITY="ARCGISPRO"
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   BEGIN_PYTHON=""
+#!   BEGIN_TCL=""
+#!   CATEGORY=""
+#!   DESCRIPTION=""
+#!   DESTINATION="NONE"
+#!   DESTINATION_ROUTING_FILE=""
+#!   DOC_EXTENTS="8623.34 2391.27"
+#!   DOC_TOP_LEFT="701.758 -2053.15"
+#!   END_PYTHON=""
+#!   END_TCL=""
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   FME_BUILD_NUM="23636"
+#!   FME_BULK_MODE_THRESHOLD="2000"
+#!   FME_DOCUMENT_GUID="d11351aa-9273-4329-8125-c4f8617dab29"
+#!   FME_DOCUMENT_PRIORGUID=""
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_NAMES_ENCODING="UTF-8"
+#!   FME_REPROJECTION_ENGINE="ESRI"
+#!   FME_SERVER_SERVICES=""
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   HISTORY=""
+#!   IGNORE_READER_FAILURE="No"
+#!   LAST_SAVE_BUILD="FME(R) 2023.1.1.1 (20231011 - Build 23636 - WIN64)"
+#!   LAST_SAVE_DATE="2024-09-12T10:50:21"
+#!   LOG_FILE=""
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   MARKDOWN_DESCRIPTION=""
+#!   MARKDOWN_USAGE=""
+#!   MAX_LOG_FEATURES="200"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   PASSWORD=""
+#!   PYTHON_COMPATIBILITY="ArcGISPro30"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   SAVE_ON_PROMPT_AND_RUN="Yes"
+#!   SHOW_ANNOTATIONS="true"
+#!   SHOW_INFO_NODES="true"
+#!   SOURCE="NONE"
+#!   SOURCE_ROUTING_FILE=""
+#!   TERMINATE_REJECTED="YES"
+#!   TITLE=""
+#!   USAGE=""
+#!   USE_MARKDOWN=""
+#!   VIEW_POSITION="4675.05 1034.39"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   WORKSPACE_VERSION="1"
+#!   ZOOM_SCALE="100"
+#! >
+#! <DATASETS>
+#! </DATASETS>
+#! <DATA_TYPES>
+#! </DATA_TYPES>
+#! <GEOM_TYPES>
+#! </GEOM_TYPES>
+#! <FEATURE_TYPES>
+#! </FEATURE_TYPES>
+#! <FMESERVER>
+#! <READER_DATASETS>
+#! <DATASET
+#!   NAME="FeatureReader"
+#!   OVERRIDE="--FeatureReaderDataset_FeatureReader"
+#!   DATASET="FeatureReader/StormWater-Level3-Report.xls.xlsx"
+#! />
+#! <DATASET
+#!   NAME="FeatureReader_2"
+#!   OVERRIDE="--FeatureReaderDataset_FeatureReader_2"
+#!   DATASET="FeatureReader_2/WasteWater-Level3-Report.xls.xlsx"
+#! />
+#! <DATASET
+#!   NAME="FeatureReader_3"
+#!   OVERRIDE="--FeatureReaderDataset_FeatureReader_3"
+#!   DATASET="FeatureReader_3/Water-Level3-Report.xls.xlsx"
+#! />
+#! </READER_DATASETS>
+#! </FMESERVER>
+#! <GLOBAL_PARAMETERS>
+#! </GLOBAL_PARAMETERS>
+#! <USER_PARAMETERS
+#!   FORM="eyJwYXJhbWV0ZXJzIjpbXX0="
+#! >
+#! <PARAMETER_INFO>
+#! </PARAMETER_INFO>
+#! </USER_PARAMETERS>
+#! <COMMENTS>
+#! <COMMENT
+#!   IDENTIFIER="50"
+#!   COMMENT_VALUE="&lt;b&gt;AttributeValueMapper_2&amp;nbsp;[AttributeValueMapper]&lt;/b&gt;&lt;br&gt;Attribute&amp;nbsp;Selection:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Input&amp;nbsp;Attribute:&amp;nbsp;GRRatesQual&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Output&amp;nbsp;Attribute:&amp;nbsp;use&lt;br&gt;Value&amp;nbsp;Map:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Default&amp;nbsp;Output&amp;nbsp;Value:&amp;nbsp;Other&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mapping&amp;nbsp;Direction:&amp;nbsp;Forward&amp;nbsp;(Input&amp;nbsp;To&amp;nbsp;Output)&lt;table border=0 cellspacing=0&gt;&lt;tr&gt;&lt;td valign=middle&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;table border=1 cellspacing=0 cellpadding=2&gt;&lt;tr&gt;&lt;td&gt;Input&amp;nbsp;Value&lt;/td&gt;&lt;td&gt;Output&amp;nbsp;Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;Residential&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Vacant&amp;nbsp;Sections&lt;/td&gt;&lt;td&gt;Vacant&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Mixed&amp;nbsp;Use&amp;nbsp;Accom&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;Residence&amp;nbsp;plus&amp;nbsp;Flat&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;Commercial&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Country&amp;nbsp;Dwg&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Accommodation&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;CBD&amp;nbsp;Commercial&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Mixed&amp;nbsp;Use&amp;nbsp;Accom/Res&amp;nbsp;Flat&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Primary&amp;nbsp;Ind.&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Mixed&amp;nbsp;Use&amp;nbsp;Comm.&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;M/Use&amp;nbsp;Accom/CDw&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Ctry&amp;nbsp;Dwg&amp;nbsp;plus&amp;nbsp;Flat&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;CBD&amp;nbsp;Accomm.&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Other&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;M/Use&amp;nbsp;Acc/CDwg&amp;nbsp;Flat&lt;/td&gt;&lt;td&gt;Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;M/Use&amp;nbsp;Com&amp;nbsp;C/Dwg&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;50%&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;50%&amp;nbsp;Commercial&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;General&amp;nbsp;Rate&amp;nbsp;-&amp;nbsp;Hydro/Utility&lt;/td&gt;&lt;td&gt;Non-Residential&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=2 align=center&gt;1&amp;nbsp;more&amp;nbsp;row(s)...&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"
+#!   POSITION="4809.7957562046104 -108.62480319078213"
+#!   TOP_LEFT="4809.7957562046104 -108.62480319078213"
+#!   BOTTOM_RIGHT="5894.1811000580492 -107.62480319078213"
+#!   BOUNDING_RECT="4809.7957562046104 -108.62480319078213 1084.3853438534386 -1"
+#!   ORDER="500000000000025"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="true"
+#!   CUSTOM_USER_COLOR="false"
+#!   UUID="{72e2a842-6912-4841-ba22-e17088a2c338}"
+#!   ANCHORED_NODE="49"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="52"
+#!   COMMENT_VALUE="&lt;b&gt;AttributeValueMapper&amp;nbsp;[AttributeValueMapper]&lt;/b&gt;&lt;br&gt;Attribute&amp;nbsp;Selection:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Input&amp;nbsp;Attribute:&amp;nbsp;fme_basename&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Output&amp;nbsp;Attribute:&amp;nbsp;system&lt;br&gt;Value&amp;nbsp;Map:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Default&amp;nbsp;Output&amp;nbsp;Value:&amp;nbsp;&amp;lt;not&amp;nbsp;set&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mapping&amp;nbsp;Direction:&amp;nbsp;Forward&amp;nbsp;(Input&amp;nbsp;To&amp;nbsp;Output)&lt;table border=0 cellspacing=0&gt;&lt;tr&gt;&lt;td valign=middle&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&lt;table border=1 cellspacing=0 cellpadding=2&gt;&lt;tr&gt;&lt;td&gt;Input&amp;nbsp;Value&lt;/td&gt;&lt;td&gt;Output&amp;nbsp;Value&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Water-Level3-Report.xls&lt;/td&gt;&lt;td&gt;Water&amp;nbsp;Supply&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;StormWater-Level3-Report.xls&lt;/td&gt;&lt;td&gt;Stormwater&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WasteWater-Level3-Report.xls&lt;/td&gt;&lt;td&gt;Wastewater&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"
+#!   POSITION="3731.6609066090668 -108.62480319078213"
+#!   TOP_LEFT="3731.6609066090668 -108.62480319078213"
+#!   BOTTOM_RIGHT="4622.2943129431305 -107.62480319078213"
+#!   BOUNDING_RECT="3731.6609066090668 -108.62480319078213 890.63340633406335 -1"
+#!   ORDER="500000000000028"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="true"
+#!   CUSTOM_USER_COLOR="false"
+#!   UUID="{d1420365-f8cc-406e-b208-bd9de6cfccb3}"
+#!   ANCHORED_NODE="42"
+#! />
+#! </COMMENTS>
+#! <CONSTANTS>
+#! </CONSTANTS>
+#! <BOOKMARKS>
+#! <BOOKMARK
+#!   IDENTIFIER="3"
+#!   NAME="extract: water connections excel files from T1"
+#!   DESCRIPTION=""
+#!   TOP_LEFT="701.75793757937561 -146.5027500275003"
+#!   ORDER="500000000000002"
+#!   PALETTE_COLOR="Reader/Writer"
+#!   BOTTOM_RIGHT="3050.030500305003 -1837.5183751837517"
+#!   BOUNDING_RECT="701.75793757937561 -146.5027500275003 2348.2725627256273 1691.0156251562514"
+#!   STICKY="true"
+#!   COLOUR="0.83529411764705885,0.71764705882352942,0.58039215686274515,1"
+#!   CONTENTS="37 23 18 15 16 12 43 21 22 44 4 29 17 11 24 36 19 20 30 "
+#! >
+#! </BOOKMARK>
+#! <BOOKMARK
+#!   IDENTIFIER="14"
+#!   NAME="datetime"
+#!   DESCRIPTION=""
+#!   TOP_LEFT="701.75793757937561 322.25193751937513"
+#!   ORDER="500000000000011"
+#!   PALETTE_COLOR="Warning"
+#!   BOTTOM_RIGHT="2465.6496564965651 3.1250312503125315"
+#!   BOUNDING_RECT="701.75793757937561 322.25193751937513 1763.8917189171893 319.1269062690626"
+#!   STICKY="true"
+#!   COLOUR="0.95686274509803926,0.9137254901960784,0.63529411764705879,1"
+#!   CONTENTS="2 7 10 9 6 "
+#! >
+#! </BOOKMARK>
+#! <BOOKMARK
+#!   IDENTIFIER="41"
+#!   NAME="transform: merge and analyse"
+#!   DESCRIPTION=""
+#!   TOP_LEFT="3189.282812828128 338.12728127281252"
+#!   ORDER="500000000000026"
+#!   PALETTE_COLOR="Color1"
+#!   BOTTOM_RIGHT="6375.063750637506 -2053.1455314553145"
+#!   BOUNDING_RECT="3189.282812828128 338.12728127281252 3185.780937809378 2391.2728127281271"
+#!   STICKY="true"
+#!   COLOUR="0.59999999999999998,0.80000000000000004,0.80000000000000004,1"
+#!   CONTENTS="50 49 45 46 51 52 25 38 54 31 42 58 39 48 32 "
+#! >
+#! </BOOKMARK>
+#! <BOOKMARK
+#!   IDENTIFIER="61"
+#!   NAME="transform: statistics"
+#!   DESCRIPTION=""
+#!   TOP_LEFT="6550.065500655006 322.50212502125123"
+#!   ORDER="500000000000035"
+#!   PALETTE_COLOR="Color2"
+#!   BOTTOM_RIGHT="9325.0932509325085 -53.125531255313035"
+#!   BOUNDING_RECT="6550.065500655006 322.50212502125123 2775.0277502775025 375.62765627656427"
+#!   STICKY="true"
+#!   COLOUR="0.63529411764705879,0.80000000000000004,0.59999999999999998,1"
+#!   CONTENTS="53 60 59 62 57 63 55 "
+#! >
+#! </BOOKMARK>
+#! </BOOKMARKS>
+#! <TRANSFORMERS>
+#! <TRANSFORMER
+#!   IDENTIFIER="2"
+#!   TYPE="Creator"
+#!   VERSION="6"
+#!   POSITION="793.75793757937561 193.75193751937516"
+#!   BOUNDING_RECT="793.75793757937561 193.75193751937516 430 71"
+#!   ORDER="500000000000001"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="CREATED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATEND" PARM_VALUE="no"/>
+#!     <XFORM_PARM PARM_NAME="COORDS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CRE_ATTR" PARM_VALUE="_creation_instance"/>
+#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="&lt;lt&gt;?xml&lt;space&gt;version=&lt;quote&gt;1.0&lt;quote&gt;&lt;space&gt;encoding=&lt;quote&gt;US_ASCII&lt;quote&gt;&lt;space&gt;standalone=&lt;quote&gt;no&lt;quote&gt;&lt;space&gt;?&lt;gt&gt;&lt;lt&gt;geometry&lt;space&gt;dimension=&lt;quote&gt;2&lt;quote&gt;&lt;gt&gt;&lt;lt&gt;null&lt;solidus&gt;&lt;gt&gt;&lt;lt&gt;&lt;solidus&gt;geometry&lt;gt&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GEOMTYPE" PARM_VALUE="Geometry Object"/>
+#!     <XFORM_PARM PARM_NAME="NUM" PARM_VALUE="1"/>
+#!     <XFORM_PARM PARM_NAME="OAN_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Creator"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="4"
+#!   TYPE="FeatureReader"
+#!   VERSION="14"
+#!   POSITION="1134.7631876318756 -309.37809378093789"
+#!   BOUNDING_RECT="1134.7631876318756 -309.37809378093789 679.50587505875137 71"
+#!   ORDER="500000000000005"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="&lt;SCHEMA&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.fme_data_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.native_data_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_format_short_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_format_long_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_schema_handling" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="StormWater-Level3-Report"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="SWRatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="StormConns" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="StormSUIPs" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="StormDemUnits" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <OUTPUT_FEAT NAME="&lt;OTHER&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="2"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <OUTPUT_FEAT NAME="INITIATOR"/>
+#!     <FEAT_COLLAPSED COLLAPSED="3"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="_matched_records" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="4"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="_reader_error" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTES" PARM_VALUE="StormWater-Level3-Report,&quot;ParentAssessment,SWRatesQUAL,GRRatesQual,StormConns,StormSUIPs,StormDemUnits,fme_basename&quot;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_TYPES" PARM_VALUE="StormWater-Level3-Report,&quot;int64,varchar(37),varchar(32),int16,int16,int16,varchar(50)&quot;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_TO_EXPOSE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Initiator and Result"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AVAILABLE_FEATURE_TYPES" PARM_VALUE="_FEATUREREADER_OPTIONAL_FTTR_%StormWater-Level3-Report"/>
+#!     <XFORM_PARM PARM_NAME="CACHE_TIMEOUT_HRS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="COMBINE_GEOM" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="CONSTRAINTS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="$(FME_MF_DIR_ENCODED)Tech1&lt;backslash&gt;StormWater-Level3-Report.xls.xlsx"/>
+#!     <XFORM_PARM PARM_NAME="DYNGROUP_0" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ENABLE_CACHE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="FEATURETYPES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FORCE_REFRESH_OUTPUTS" PARM_VALUE="on_parm_change"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="XLSXR"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_ATTRIBUTE_TYPES" PARM_VALUE="StormWater-Level3-Report,"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="METAFILE,XLSXR"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="XLSXR_CONFIGURATION_DATASET,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_APPLY_FILTERS,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Apply&lt;space&gt;Filter&lt;openparen&gt;s&lt;closeparen&gt;:,XLSXR_TRIM_ATTR_NAME_CHARACTERS,&quot;OPTIONAL TEXT_EDIT_ENCODED FME_INCLUDEBROWSE%NO&quot;,XLSXR&lt;space&gt;Trim&lt;space&gt;Characters&lt;space&gt;from&lt;space&gt;Attribute&lt;space&gt;Names:,XLSXR_ADVANCED,&quot;OPTIONAL DISCLOSUREGROUP APPLY_FILTERS%SCAN_MAX_FEATURES%TRIM_ATTR_NAME_WHITESPACE%TRIM_ATTR_NAME_CHARACTERS%READ_BLANK_AS%EXPAND_MERGED_CELLS%READ_RASTER_MODE%READ_FORM_CONTROLS%SCAN_FOR_GEOMETRIC_TYPES&quot;,XLSXR&lt;space&gt;Advanced,XLSXR_READ_RASTER_MODE,&quot;OPTIONAL LOOKUP_CHOICE None%Attribute%Geometry&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Embedded&lt;space&gt;Images&lt;space&gt;As:,XLSXR_EXCEL_COL_NAMES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_SCAN_MAX_FEATURES,&quot;OPTIONAL RANGE_SLIDER 0%MAX%0&quot;,XLSXR&lt;space&gt;Maximum&lt;space&gt;Rows&lt;space&gt;to&lt;space&gt;Scan:,XLSXR_SCHEMA_HANDLING_REVISION,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_FORCE_DATETIME,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_STRIP_SHEETNAME_SPACES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_SCAN_FOR_GEOMETRIC_TYPES,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Scan&lt;space&gt;For&lt;space&gt;Geometric&lt;space&gt;Types:,XLSXR_SKIP_EMPTY_ROWS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_CASE_SENSITIVE_FEATURE_TYPES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_TABLELIST,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_TRIM_ATTR_NAME_WHITESPACE,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Trim&lt;space&gt;Whitespace&lt;space&gt;From&lt;space&gt;Attribute&lt;space&gt;Names:,XLSXR_READ_FORM_CONTROLS,&quot;OPTIONAL CHECKBOX CELL_VALUE%NONE&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Form&lt;space&gt;Control&lt;space&gt;as&lt;space&gt;Cell&lt;space&gt;Values:,XLSXR_USE_CUSTOM_SCHEMA,&quot;OPTIONAL RADIO_GROUP 2%Automatic,NO%Manual,YES&quot;,XLSXR&lt;space&gt;Attribute&lt;space&gt;Definition,XLSXR_SCHEMA,&quot;OPTIONAL STRING&quot;,XLSXR&lt;space&gt;To&lt;space&gt;be&lt;space&gt;populated,XLSXR_XLSXR_EXPOSE_FORMAT_ATTRS,&quot;OPTIONAL LITERAL EXPOSED_ATTRS XLSXR%Source&quot;,XLSXR&lt;space&gt;Additional&lt;space&gt;Attributes&lt;space&gt;to&lt;space&gt;Expose:,XLSXR_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_EXPAND_MERGED_CELLS,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Expand&lt;space&gt;Merged&lt;space&gt;Cells:,XLSXR_CREATE_FEATURE_TABLES_FROM_DATA,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_READ_BLANK_AS,&quot;OPTIONAL CHOICE Missing%Null&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Blank&lt;space&gt;Cells&lt;space&gt;As:,XLSXR_ALLOW_DOLLAR_SIGNS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_EXPOSE_ATTRS_GROUP,&quot;OPTIONAL DISCLOSUREGROUP XLSXR_EXPOSE_FORMAT_ATTRS&quot;,XLSXR&lt;space&gt;Schema&lt;space&gt;Attributes"/>
+#!     <XFORM_PARM PARM_NAME="FTTR_SEPARATOR" PARM_VALUE="SPACE"/>
+#!     <XFORM_PARM PARM_NAME="GENERIC_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="INTERACT" PARM_VALUE="NONE"/>
+#!     <XFORM_PARM PARM_NAME="MAX_FEATURES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MERGE_HANDLING_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="ORDER_RESULTS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUTPORTS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FEATURES_DISPLAY" PARM_VALUE="Schema and Data Features"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FEATURES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS_MODE" PARM_VALUE="PORTS_FROM_FTTR"/>
+#!     <XFORM_PARM PARM_NAME="PORTS_FROM_FTTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="READER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="READ_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SELECTED_PORTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SINGLE_PORT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUPPORTED_SPATIAL_INTERACTIONS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WHERE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureReader"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_ADVANCED" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_ALLOW_DOLLAR_SIGNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_APPLY_FILTERS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CASE_SENSITIVE_FEATURE_TYPES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CONFIGURATION_DATASET" PARM_VALUE="$(FME_MF_DIR)Tech1\StormWater-Level3-Report.xls.xlsx"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CREATE_FEATURE_TABLES_FROM_DATA" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXCEL_COL_NAMES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXPAND_MERGED_CELLS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXPOSE_ATTRS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_FORCE_DATETIME" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_BLANK_AS" PARM_VALUE="Missing"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_FORM_CONTROLS" PARM_VALUE="NONE"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_RASTER_MODE" PARM_VALUE="None"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCAN_FOR_GEOMETRIC_TYPES" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCAN_MAX_FEATURES" PARM_VALUE="1000"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCHEMA" PARM_VALUE="StormWater-Level3-Report,0&lt;comma&gt;ParentAssessment&lt;comma&gt;number&lt;comma&gt;10&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;1&lt;comma&gt;SWRatesQUAL&lt;comma&gt;char&lt;comma&gt;37&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;2&lt;comma&gt;GRRatesQual&lt;comma&gt;char&lt;comma&gt;32&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;3&lt;comma&gt;StormConns&lt;comma&gt;number&lt;comma&gt;1&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;4&lt;comma&gt;StormSUIPs&lt;comma&gt;number&lt;comma&gt;2&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;5&lt;comma&gt;StormDemUnits&lt;comma&gt;number&lt;comma&gt;1&lt;comma&gt;0&lt;comma&gt;,1&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;,NO&lt;comma&gt;NO&lt;comma&gt;1&lt;comma&gt;C:&lt;lt&gt;backslash&lt;gt&gt;Github&lt;lt&gt;backslash&lt;gt&gt;qldc-pi-fme-taumata-dev&lt;lt&gt;backslash&lt;gt&gt;Tech1&lt;lt&gt;backslash&lt;gt&gt;StormWater-Level3-Report.xls.xlsx&lt;comma&gt;&lt;quote&gt;0&lt;comma&gt;0&lt;comma&gt;5&lt;comma&gt;21069&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;NO&lt;comma&gt;NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCHEMA_HANDLING_REVISION" PARM_VALUE="2"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SKIP_EMPTY_ROWS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_STRIP_SHEETNAME_SPACES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TABLELIST" PARM_VALUE="StormWater-Level3-Report"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TRIM_ATTR_NAME_CHARACTERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TRIM_ATTR_NAME_WHITESPACE" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_USE_CUSTOM_SCHEMA" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_XLSXR_EXPOSE_FORMAT_ATTRS" PARM_VALUE="fme_basename,char(50)"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="6"
+#!   TYPE="DateTimeStamper"
+#!   VERSION="1"
+#!   POSITION="1528.1402814028133 193.75193751937516"
+#!   BOUNDING_RECT="1528.1402814028133 193.75193751937516 454 71"
+#!   ORDER="500000000000006"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="DATETIME_ATTR" PARM_VALUE="origin_utc"/>
+#!     <XFORM_PARM PARM_NAME="INCLUDE_FRAC_SECONDS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="INCLUDE_OFFSET" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="OAN_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PREVIEW" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PREVIEW_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="STAMP_TYPE" PARM_VALUE="datetime"/>
+#!     <XFORM_PARM PARM_NAME="TIMEZONE" PARM_VALUE="utc"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="DateTimeStamper"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="9"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="2254.5166251662508 123.75193751937516"
+#!   BOUNDING_RECT="2254.5166251662508 123.75193751937516 61 61"
+#!   ORDER="500000000000007"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="11"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="845.50937509375058 -887.75906259062594"
+#!   BOUNDING_RECT="845.50937509375058 -887.75906259062594 61 61"
+#!   ORDER="500000000000008"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_2"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="15"
+#!   TYPE="FeatureReader"
+#!   VERSION="14"
+#!   POSITION="1131.638156381563 -814.50872814453237"
+#!   BOUNDING_RECT="1131.638156381563 -814.50872814453237 679.50587505875137 71"
+#!   ORDER="500000000000005"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="&lt;SCHEMA&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.fme_data_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.native_data_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_format_short_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_format_long_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_schema_handling" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="WasteWater-Level3-Report"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="WWRatesQual" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="AssNumSewerConns" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="AssNumSewerPans" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="AssNumSewerDem" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <OUTPUT_FEAT NAME="&lt;OTHER&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="2"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <OUTPUT_FEAT NAME="INITIATOR"/>
+#!     <FEAT_COLLAPSED COLLAPSED="3"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="_matched_records" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="4"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="_reader_error" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTES" PARM_VALUE="WasteWater-Level3-Report,&quot;ParentAssessment,WWRatesQual,GRRatesQual,AssNumSewerConns,AssNumSewerPans,AssNumSewerDem,fme_basename&quot;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_TYPES" PARM_VALUE="WasteWater-Level3-Report,&quot;int64,varchar(24),varchar(39),int16,int16,int16,varchar(50)&quot;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_TO_EXPOSE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Initiator and Result"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AVAILABLE_FEATURE_TYPES" PARM_VALUE="_FEATUREREADER_OPTIONAL_FTTR_%WasteWater-Level3-Report"/>
+#!     <XFORM_PARM PARM_NAME="CACHE_TIMEOUT_HRS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="COMBINE_GEOM" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="CONSTRAINTS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="$(FME_MF_DIR_ENCODED)Tech1&lt;backslash&gt;WasteWater-Level3-Report.xls.xlsx"/>
+#!     <XFORM_PARM PARM_NAME="DYNGROUP_0" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ENABLE_CACHE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="FEATURETYPES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FORCE_REFRESH_OUTPUTS" PARM_VALUE="on_parm_change"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="XLSXR"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_ATTRIBUTE_TYPES" PARM_VALUE="WasteWater-Level3-Report,"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="METAFILE,XLSXR"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="XLSXR_CONFIGURATION_DATASET,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_APPLY_FILTERS,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Apply&lt;space&gt;Filter&lt;openparen&gt;s&lt;closeparen&gt;:,XLSXR_TRIM_ATTR_NAME_CHARACTERS,&quot;OPTIONAL TEXT_EDIT_ENCODED FME_INCLUDEBROWSE%NO&quot;,XLSXR&lt;space&gt;Trim&lt;space&gt;Characters&lt;space&gt;from&lt;space&gt;Attribute&lt;space&gt;Names:,XLSXR_ADVANCED,&quot;OPTIONAL DISCLOSUREGROUP APPLY_FILTERS%SCAN_MAX_FEATURES%TRIM_ATTR_NAME_WHITESPACE%TRIM_ATTR_NAME_CHARACTERS%READ_BLANK_AS%EXPAND_MERGED_CELLS%READ_RASTER_MODE%READ_FORM_CONTROLS%SCAN_FOR_GEOMETRIC_TYPES&quot;,XLSXR&lt;space&gt;Advanced,XLSXR_READ_RASTER_MODE,&quot;OPTIONAL LOOKUP_CHOICE None%Attribute%Geometry&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Embedded&lt;space&gt;Images&lt;space&gt;As:,XLSXR_EXCEL_COL_NAMES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_SCAN_MAX_FEATURES,&quot;OPTIONAL RANGE_SLIDER 0%MAX%0&quot;,XLSXR&lt;space&gt;Maximum&lt;space&gt;Rows&lt;space&gt;to&lt;space&gt;Scan:,XLSXR_SCHEMA_HANDLING_REVISION,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_FORCE_DATETIME,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_STRIP_SHEETNAME_SPACES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_SCAN_FOR_GEOMETRIC_TYPES,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Scan&lt;space&gt;For&lt;space&gt;Geometric&lt;space&gt;Types:,XLSXR_SKIP_EMPTY_ROWS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_CASE_SENSITIVE_FEATURE_TYPES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_TABLELIST,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_TRIM_ATTR_NAME_WHITESPACE,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Trim&lt;space&gt;Whitespace&lt;space&gt;From&lt;space&gt;Attribute&lt;space&gt;Names:,XLSXR_READ_FORM_CONTROLS,&quot;OPTIONAL CHECKBOX CELL_VALUE%NONE&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Form&lt;space&gt;Control&lt;space&gt;as&lt;space&gt;Cell&lt;space&gt;Values:,XLSXR_USE_CUSTOM_SCHEMA,&quot;OPTIONAL RADIO_GROUP 2%Automatic,NO%Manual,YES&quot;,XLSXR&lt;space&gt;Attribute&lt;space&gt;Definition,XLSXR_SCHEMA,&quot;OPTIONAL STRING&quot;,XLSXR&lt;space&gt;To&lt;space&gt;be&lt;space&gt;populated,XLSXR_XLSXR_EXPOSE_FORMAT_ATTRS,&quot;OPTIONAL LITERAL EXPOSED_ATTRS XLSXR%Source&quot;,XLSXR&lt;space&gt;Additional&lt;space&gt;Attributes&lt;space&gt;to&lt;space&gt;Expose:,XLSXR_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_EXPAND_MERGED_CELLS,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Expand&lt;space&gt;Merged&lt;space&gt;Cells:,XLSXR_CREATE_FEATURE_TABLES_FROM_DATA,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_READ_BLANK_AS,&quot;OPTIONAL CHOICE Missing%Null&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Blank&lt;space&gt;Cells&lt;space&gt;As:,XLSXR_ALLOW_DOLLAR_SIGNS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_EXPOSE_ATTRS_GROUP,&quot;OPTIONAL DISCLOSUREGROUP XLSXR_EXPOSE_FORMAT_ATTRS&quot;,XLSXR&lt;space&gt;Schema&lt;space&gt;Attributes"/>
+#!     <XFORM_PARM PARM_NAME="FTTR_SEPARATOR" PARM_VALUE="SPACE"/>
+#!     <XFORM_PARM PARM_NAME="GENERIC_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="INTERACT" PARM_VALUE="NONE"/>
+#!     <XFORM_PARM PARM_NAME="MAX_FEATURES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MERGE_HANDLING_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="ORDER_RESULTS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUTPORTS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FEATURES_DISPLAY" PARM_VALUE="Schema and Data Features"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FEATURES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS_MODE" PARM_VALUE="PORTS_FROM_FTTR"/>
+#!     <XFORM_PARM PARM_NAME="PORTS_FROM_FTTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="READER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="READ_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SELECTED_PORTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SINGLE_PORT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUPPORTED_SPATIAL_INTERACTIONS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WHERE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureReader_2"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_ADVANCED" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_ALLOW_DOLLAR_SIGNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_APPLY_FILTERS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CASE_SENSITIVE_FEATURE_TYPES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CONFIGURATION_DATASET" PARM_VALUE="$(FME_MF_DIR)Tech1\WasteWater-Level3-Report.xls.xlsx"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CREATE_FEATURE_TABLES_FROM_DATA" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXCEL_COL_NAMES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXPAND_MERGED_CELLS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXPOSE_ATTRS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_FORCE_DATETIME" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_BLANK_AS" PARM_VALUE="Missing"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_FORM_CONTROLS" PARM_VALUE="NONE"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_RASTER_MODE" PARM_VALUE="None"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCAN_FOR_GEOMETRIC_TYPES" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCAN_MAX_FEATURES" PARM_VALUE="1000"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCHEMA" PARM_VALUE="WasteWater-Level3-Report,0&lt;comma&gt;ParentAssessment&lt;comma&gt;number&lt;comma&gt;10&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;1&lt;comma&gt;WWRatesQual&lt;comma&gt;char&lt;comma&gt;24&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;2&lt;comma&gt;GRRatesQual&lt;comma&gt;char&lt;comma&gt;39&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;3&lt;comma&gt;AssNumSewerConns&lt;comma&gt;number&lt;comma&gt;2&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;4&lt;comma&gt;AssNumSewerPans&lt;comma&gt;number&lt;comma&gt;2&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;5&lt;comma&gt;AssNumSewerDem&lt;comma&gt;number&lt;comma&gt;2&lt;comma&gt;0&lt;comma&gt;,1&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;,NO&lt;comma&gt;NO&lt;comma&gt;1&lt;comma&gt;C:&lt;lt&gt;backslash&lt;gt&gt;Github&lt;lt&gt;backslash&lt;gt&gt;qldc-pi-fme-taumata-dev&lt;lt&gt;backslash&lt;gt&gt;Tech1&lt;lt&gt;backslash&lt;gt&gt;WasteWater-Level3-Report.xls.xlsx&lt;comma&gt;&lt;quote&gt;0&lt;comma&gt;0&lt;comma&gt;5&lt;comma&gt;17114&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;NO&lt;comma&gt;NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCHEMA_HANDLING_REVISION" PARM_VALUE="2"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SKIP_EMPTY_ROWS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_STRIP_SHEETNAME_SPACES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TABLELIST" PARM_VALUE="WasteWater-Level3-Report"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TRIM_ATTR_NAME_CHARACTERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TRIM_ATTR_NAME_WHITESPACE" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_USE_CUSTOM_SCHEMA" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_XLSXR_EXPOSE_FORMAT_ATTRS" PARM_VALUE="fme_basename,char(50)"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="17"
+#!   TYPE="FeatureReader"
+#!   VERSION="14"
+#!   POSITION="1131.638156381563 -1336.3883435251587"
+#!   BOUNDING_RECT="1131.638156381563 -1336.3883435251587 679.50587505875137 71"
+#!   ORDER="500000000000005"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="&lt;SCHEMA&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_feature_type_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.fme_data_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="attribute{}.native_data_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_format_short_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_format_long_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_schema_handling" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="Water-Level3-Report"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="WSRatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="WSRatesQualLU" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="WaterConns" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="WaterSUIPs" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="WaterDemUnits" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <OUTPUT_FEAT NAME="&lt;OTHER&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="2"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <OUTPUT_FEAT NAME="INITIATOR"/>
+#!     <FEAT_COLLAPSED COLLAPSED="3"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="_matched_records" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="4"/>
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="_reader_error" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTES" PARM_VALUE="Water-Level3-Report,&quot;ParentAssessment,WSRatesQUAL,WSRatesQualLU,GRRatesQual,WaterConns,WaterSUIPs,WaterDemUnits,fme_basename&quot;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_TYPES" PARM_VALUE="Water-Level3-Report,&quot;date,varchar(32),varchar(44),varchar(39),int16,int16,int16,varchar(50)&quot;"/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_TO_EXPOSE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Initiator and Result"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AVAILABLE_FEATURE_TYPES" PARM_VALUE="_FEATUREREADER_OPTIONAL_FTTR_%Water-Level3-Report"/>
+#!     <XFORM_PARM PARM_NAME="CACHE_TIMEOUT_HRS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="COMBINE_GEOM" PARM_VALUE="Use Result"/>
+#!     <XFORM_PARM PARM_NAME="CONSTRAINTS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="$(FME_MF_DIR_ENCODED)Tech1&lt;backslash&gt;Water-Level3-Report.xls.xlsx"/>
+#!     <XFORM_PARM PARM_NAME="DYNGROUP_0" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ENABLE_CACHE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="FEATURETYPES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="FORCE_REFRESH_OUTPUTS" PARM_VALUE="on_parm_change"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="XLSXR"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_ATTRIBUTE_TYPES" PARM_VALUE="Water-Level3-Report,"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="METAFILE,XLSXR"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="XLSXR_CONFIGURATION_DATASET,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_APPLY_FILTERS,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Apply&lt;space&gt;Filter&lt;openparen&gt;s&lt;closeparen&gt;:,XLSXR_TRIM_ATTR_NAME_CHARACTERS,&quot;OPTIONAL TEXT_EDIT_ENCODED FME_INCLUDEBROWSE%NO&quot;,XLSXR&lt;space&gt;Trim&lt;space&gt;Characters&lt;space&gt;from&lt;space&gt;Attribute&lt;space&gt;Names:,XLSXR_ADVANCED,&quot;OPTIONAL DISCLOSUREGROUP APPLY_FILTERS%SCAN_MAX_FEATURES%TRIM_ATTR_NAME_WHITESPACE%TRIM_ATTR_NAME_CHARACTERS%READ_BLANK_AS%EXPAND_MERGED_CELLS%READ_RASTER_MODE%READ_FORM_CONTROLS%SCAN_FOR_GEOMETRIC_TYPES&quot;,XLSXR&lt;space&gt;Advanced,XLSXR_READ_RASTER_MODE,&quot;OPTIONAL LOOKUP_CHOICE None%Attribute%Geometry&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Embedded&lt;space&gt;Images&lt;space&gt;As:,XLSXR_EXCEL_COL_NAMES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_SCAN_MAX_FEATURES,&quot;OPTIONAL RANGE_SLIDER 0%MAX%0&quot;,XLSXR&lt;space&gt;Maximum&lt;space&gt;Rows&lt;space&gt;to&lt;space&gt;Scan:,XLSXR_SCHEMA_HANDLING_REVISION,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_FORCE_DATETIME,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_STRIP_SHEETNAME_SPACES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_SCAN_FOR_GEOMETRIC_TYPES,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Scan&lt;space&gt;For&lt;space&gt;Geometric&lt;space&gt;Types:,XLSXR_SKIP_EMPTY_ROWS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_CASE_SENSITIVE_FEATURE_TYPES,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_TABLELIST,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_TRIM_ATTR_NAME_WHITESPACE,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Trim&lt;space&gt;Whitespace&lt;space&gt;From&lt;space&gt;Attribute&lt;space&gt;Names:,XLSXR_READ_FORM_CONTROLS,&quot;OPTIONAL CHECKBOX CELL_VALUE%NONE&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Form&lt;space&gt;Control&lt;space&gt;as&lt;space&gt;Cell&lt;space&gt;Values:,XLSXR_USE_CUSTOM_SCHEMA,&quot;OPTIONAL RADIO_GROUP 2%Automatic,NO%Manual,YES&quot;,XLSXR&lt;space&gt;Attribute&lt;space&gt;Definition,XLSXR_SCHEMA,&quot;OPTIONAL STRING&quot;,XLSXR&lt;space&gt;To&lt;space&gt;be&lt;space&gt;populated,XLSXR_XLSXR_EXPOSE_FORMAT_ATTRS,&quot;OPTIONAL LITERAL EXPOSED_ATTRS XLSXR%Source&quot;,XLSXR&lt;space&gt;Additional&lt;space&gt;Attributes&lt;space&gt;to&lt;space&gt;Expose:,XLSXR_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_EXPAND_MERGED_CELLS,&quot;OPTIONAL CHECKBOX Yes%No&quot;,XLSXR&lt;space&gt;Expand&lt;space&gt;Merged&lt;space&gt;Cells:,XLSXR_CREATE_FEATURE_TABLES_FROM_DATA,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_READ_BLANK_AS,&quot;OPTIONAL CHOICE Missing%Null&quot;,XLSXR&lt;space&gt;Read&lt;space&gt;Blank&lt;space&gt;Cells&lt;space&gt;As:,XLSXR_ALLOW_DOLLAR_SIGNS,&quot;OPTIONAL NO_EDIT TEXT&quot;,XLSXR&lt;space&gt;,XLSXR_EXPOSE_ATTRS_GROUP,&quot;OPTIONAL DISCLOSUREGROUP XLSXR_EXPOSE_FORMAT_ATTRS&quot;,XLSXR&lt;space&gt;Schema&lt;space&gt;Attributes"/>
+#!     <XFORM_PARM PARM_NAME="FTTR_SEPARATOR" PARM_VALUE="SPACE"/>
+#!     <XFORM_PARM PARM_NAME="GENERIC_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="INTERACT" PARM_VALUE="NONE"/>
+#!     <XFORM_PARM PARM_NAME="MAX_FEATURES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MERGE_HANDLING_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="ORDER_RESULTS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUTPORTS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FEATURES_DISPLAY" PARM_VALUE="Schema and Data Features"/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_FEATURES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="OUTPUT_PORTS_MODE" PARM_VALUE="PORTS_FROM_FTTR"/>
+#!     <XFORM_PARM PARM_NAME="PORTS_FROM_FTTR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="READER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="READ_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SELECTED_PORTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SINGLE_PORT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SUPPORTED_SPATIAL_INTERACTIONS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="WHERE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureReader_3"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_ADVANCED" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_ALLOW_DOLLAR_SIGNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_APPLY_FILTERS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CASE_SENSITIVE_FEATURE_TYPES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CONFIGURATION_DATASET" PARM_VALUE="$(FME_MF_DIR)Tech1\Water-Level3-Report.xls.xlsx"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_CREATE_FEATURE_TABLES_FROM_DATA" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXCEL_COL_NAMES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXPAND_MERGED_CELLS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_EXPOSE_ATTRS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_FORCE_DATETIME" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_BLANK_AS" PARM_VALUE="Missing"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_FORM_CONTROLS" PARM_VALUE="NONE"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_READ_RASTER_MODE" PARM_VALUE="None"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCAN_FOR_GEOMETRIC_TYPES" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCAN_MAX_FEATURES" PARM_VALUE="1000"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCHEMA" PARM_VALUE="Water-Level3-Report,0&lt;comma&gt;ParentAssessment&lt;comma&gt;date&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;1&lt;comma&gt;WSRatesQUAL&lt;comma&gt;char&lt;comma&gt;32&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;2&lt;comma&gt;WSRatesQualLU&lt;comma&gt;char&lt;comma&gt;44&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;3&lt;comma&gt;GRRatesQual&lt;comma&gt;char&lt;comma&gt;39&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;4&lt;comma&gt;WaterConns&lt;comma&gt;number&lt;comma&gt;1&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;5&lt;comma&gt;WaterSUIPs&lt;comma&gt;number&lt;comma&gt;2&lt;comma&gt;0&lt;comma&gt;&lt;comma&gt;6&lt;comma&gt;WaterDemUnits&lt;comma&gt;number&lt;comma&gt;2&lt;comma&gt;0&lt;comma&gt;,1&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;,NO&lt;comma&gt;NO&lt;comma&gt;1&lt;comma&gt;C:&lt;lt&gt;backslash&lt;gt&gt;Github&lt;lt&gt;backslash&lt;gt&gt;qldc-pi-fme-taumata-dev&lt;lt&gt;backslash&lt;gt&gt;Tech1&lt;lt&gt;backslash&lt;gt&gt;Water-Level3-Report.xls.xlsx&lt;comma&gt;&lt;quote&gt;0&lt;comma&gt;0&lt;comma&gt;6&lt;comma&gt;20766&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;NO&lt;comma&gt;NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SCHEMA_HANDLING_REVISION" PARM_VALUE="2"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_SKIP_EMPTY_ROWS" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_STRIP_SHEETNAME_SPACES" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TABLELIST" PARM_VALUE="Water-Level3-Report"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TRIM_ATTR_NAME_CHARACTERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_TRIM_ATTR_NAME_WHITESPACE" PARM_VALUE="Yes"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_USE_CUSTOM_SCHEMA" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="XLSXR_XLSXR_EXPOSE_FORMAT_ATTRS" PARM_VALUE="fme_basename,char(50)"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="19"
+#!   TYPE="AttributeRenamer"
+#!   VERSION="5"
+#!   POSITION="2121.8962189621898 -309.37809378093789"
+#!   BOUNDING_RECT="2121.8962189621898 -309.37809378093789 454 71"
+#!   ORDER="500000000000012"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="StormConns Conns RENAME_SET_DEFAULT  StormDemUnits DemUnits RENAME_SET_DEFAULT  StormSUIPs Suips RENAME_SET_DEFAULT  SWRatesQUAL RatesQUAL RENAME_SET_DEFAULT "/>
+#!     <XFORM_PARM PARM_NAME="MISSING_INPUT_ATTRS" PARM_VALUE="REMOVE"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="21"
+#!   TYPE="AttributeRenamer"
+#!   VERSION="5"
+#!   POSITION="2121.8962189621898 -814.50872814453237"
+#!   BOUNDING_RECT="2121.8962189621898 -814.50872814453237 454 71"
+#!   ORDER="500000000000012"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="AssNumSewerConns Conns RENAME_SET_DEFAULT  AssNumSewerDem DemUnits RENAME_SET_DEFAULT  AssNumSewerPans Suips RENAME_SET_DEFAULT  WWRatesQual RatesQUAL RENAME_SET_DEFAULT "/>
+#!     <XFORM_PARM PARM_NAME="MISSING_INPUT_ATTRS" PARM_VALUE="REMOVE"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_2"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="23"
+#!   TYPE="AttributeRenamer"
+#!   VERSION="5"
+#!   POSITION="2121.8962189621898 -1336.3883435251587"
+#!   BOUNDING_RECT="2121.8962189621898 -1336.3883435251587 454 71"
+#!   ORDER="500000000000012"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="WSRatesQualLU" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="WaterConns Conns RENAME_SET_DEFAULT  WaterDemUnits DemUnits RENAME_SET_DEFAULT  WaterSUIPs Suips RENAME_SET_DEFAULT  WSRatesQUAL RatesQUAL RENAME_SET_DEFAULT "/>
+#!     <XFORM_PARM PARM_NAME="MISSING_INPUT_ATTRS" PARM_VALUE="REMOVE"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_3"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="25"
+#!   TYPE="AttributeManager"
+#!   VERSION="5"
+#!   POSITION="3731.6609066090668 187.50187501875052"
+#!   BOUNDING_RECT="3731.6609066090668 187.50187501875052 454 71"
+#!   ORDER="500000000000013"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="fme_basename fme_basename  varchar&lt;openparen&gt;50&lt;closeparen&gt; NO_OP _creation_instance _creation_instance  uint64 NO_OP origin_utc origin_utc  buffer NO_OP ParentAssessment ParentAssessment  int64 NO_OP GRRatesQual GRRatesQual  varchar&lt;openparen&gt;32&lt;closeparen&gt; NO_OP Conns Conns  int16 NO_OP DemUnits DemUnits  int16 NO_OP Suips Suips  int16 NO_OP RatesQUAL RatesQUAL  varchar&lt;openparen&gt;37&lt;closeparen&gt; NO_OP WSRatesQualLU WSRatesQualLU  varchar&lt;openparen&gt;44&lt;closeparen&gt; REMOVE"/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
+#!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="USER_EXPOSED_ATTRIBUTES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="USER_MODIFIED_ATTRIBUTE_TYPES" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeManager"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="29"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="2845.1475314753147 -379.37809378093789"
+#!   BOUNDING_RECT="2845.1475314753147 -379.37809378093789 61 61"
+#!   ORDER="500000000000014"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_3"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="31"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="3347.7844378443783 175.00175001749994"
+#!   BOUNDING_RECT="3347.7844378443783 175.00175001749994 61 61"
+#!   ORDER="500000000000015"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_4"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="36"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="2842.0225002250022 -880.13438440109485"
+#!   BOUNDING_RECT="2842.0225002250022 -880.13438440109485 61 61"
+#!   ORDER="500000000000018"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_5"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="38"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="3347.7844378443783 79.001750017500399"
+#!   BOUNDING_RECT="3347.7844378443783 79.001750017500399 61 61"
+#!   ORDER="500000000000019"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_6"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="43"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="2845.1475314753147 -1406.3883435251587"
+#!   BOUNDING_RECT="2845.1475314753147 -1406.3883435251587 61 61"
+#!   ORDER="500000000000022"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="WSRatesQualLU" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_7"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="45"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="3347.7844378443783 -16.998249982500511"
+#!   BOUNDING_RECT="3347.7844378443783 -16.998249982500511 61 61"
+#!   ORDER="500000000000023"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="WSRatesQualLU" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_8"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="42"
+#!   TYPE="AttributeValueMapper"
+#!   VERSION="7"
+#!   POSITION="4545.546375463754 187.50187501875052"
+#!   BOUNDING_RECT="4545.546375463754 187.50187501875052 483.00106825772946 71"
+#!   ORDER="500000000000027"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LUT" PARM_VALUE="Water-Level3-Report.xls,Water&lt;space&gt;Supply,StormWater-Level3-Report.xls,Stormwater,WasteWater-Level3-Report.xls,Wastewater"/>
+#!     <XFORM_PARM PARM_NAME="MAPPING_DIRECTION" PARM_VALUE="FORWARD"/>
+#!     <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="fme_basename"/>
+#!     <XFORM_PARM PARM_NAME="VALUE_MAP_TABLE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="system"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeValueMapper"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="49"
+#!   TYPE="AttributeValueMapper"
+#!   VERSION="7"
+#!   POSITION="5429.930219302194 187.50187501875052"
+#!   BOUNDING_RECT="5429.930219302194 187.50187501875052 483.00106825772946 71"
+#!   ORDER="500000000000019"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="ATTR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="Other"/>
+#!     <XFORM_PARM PARM_NAME="LUT" PARM_VALUE="General&lt;space&gt;Rate&lt;space&gt;Residential,Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Vacant&lt;space&gt;Sections,Vacant,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Mixed&lt;space&gt;Use&lt;space&gt;Accom,Residential,General&lt;space&gt;Rate&lt;space&gt;Residence&lt;space&gt;plus&lt;space&gt;Flat,Residential,General&lt;space&gt;Rate&lt;space&gt;Commercial,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Country&lt;space&gt;Dwg,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Accommodation,Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;CBD&lt;space&gt;Commercial,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Mixed&lt;space&gt;Use&lt;space&gt;Accom&lt;solidus&gt;Res&lt;space&gt;Flat,Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Primary&lt;space&gt;Ind.,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Mixed&lt;space&gt;Use&lt;space&gt;Comm.,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;M&lt;solidus&gt;Use&lt;space&gt;Accom&lt;solidus&gt;CDw,Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Ctry&lt;space&gt;Dwg&lt;space&gt;plus&lt;space&gt;Flat,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;CBD&lt;space&gt;Accomm.,Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Other,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;M&lt;solidus&gt;Use&lt;space&gt;Acc&lt;solidus&gt;CDwg&lt;space&gt;Flat,Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;M&lt;solidus&gt;Use&lt;space&gt;Com&lt;space&gt;C&lt;solidus&gt;Dwg,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;50%,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;50%&lt;space&gt;Commercial,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;Hydro&lt;solidus&gt;Utility,Non-Residential,General&lt;space&gt;Rate&lt;space&gt;-&lt;space&gt;M&lt;solidus&gt;Use&lt;space&gt;Com.&lt;space&gt;10%,Non-Residential"/>
+#!     <XFORM_PARM PARM_NAME="MAPPING_DIRECTION" PARM_VALUE="FORWARD"/>
+#!     <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="GRRatesQual"/>
+#!     <XFORM_PARM PARM_NAME="VALUE_MAP_TABLE_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="use"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeValueMapper_2"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="53"
+#!   TYPE="StatisticsCalculator"
+#!   VERSION="11"
+#!   POSITION="7837.5783757837562 212.50212502125123"
+#!   BOUNDING_RECT="7837.5783757837562 212.50212502125123 454 71"
+#!   ORDER="500000000000029"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="SUMMARY"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="COMPLETE"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Conns.sum" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_PARM PARM_NAME="ADV_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="ADV_PARAMETERMAP_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CALCULATION_MODE" PARM_VALUE="NUMERIC"/>
+#!     <XFORM_PARM PARM_NAME="CUMULATIVE_STATS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FEAT_STATS" PARM_VALUE="Conns,NUMERIC_MODE,,,,SUM,,,,,,,,,"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="system use"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY_MODE" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_PROCESSING_GROUP" PARM_VALUE="YES"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PREPEND_ATTR_NAME_OBS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="STATISTIC_SUFFIX_RENAME_MAP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="STATS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StatisticsCalculator"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="55"
+#!   TYPE="Tester"
+#!   VERSION="3"
+#!   POSITION="6999.8825788257891 212.50212502125123"
+#!   BOUNDING_RECT="6999.8825788257891 212.50212502125123 454 71"
+#!   ORDER="500000000000030"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="PASSED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="FAILED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_PARM PARM_NAME="ADVANCED_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="AND"/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_MSG" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="PRESERVE_FEATURE_ORDER" PARM_VALUE="Per Output Port"/>
+#!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &lt;at&gt;Value&lt;openparen&gt;use&lt;closeparen&gt; != Vacant&#10;TEST &lt;at&gt;Value&lt;openparen&gt;use&lt;closeparen&gt; != Other"/>
+#!     <XFORM_PARM PARM_NAME="TEST_CLAUSE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="TEST"/>
+#!     <XFORM_PARM PARM_NAME="TEST_PREVIEW_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="54"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="6200.9327875749232 117.50187501875052"
+#!   BOUNDING_RECT="6200.9327875749232 117.50187501875052 61 61"
+#!   ORDER="500000000000031"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_9"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="59"
+#!   TYPE="Junction"
+#!   VERSION="0"
+#!   POSITION="6644.1313913139129 212.50212502125123"
+#!   BOUNDING_RECT="6644.1313913139129 212.50212502125123 61 61"
+#!   ORDER="500000000000032"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="Output"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="_creation_instance" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="origin_utc" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="ParentAssessment" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="GRRatesQual" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="DemUnits" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Suips" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="RatesQUAL" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_10"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="62"
+#!   TYPE="Sorter"
+#!   VERSION="3"
+#!   POSITION="8637.5863758637606 212.50212502125123"
+#!   BOUNDING_RECT="8637.5863758637606 212.50212502125123 454 71"
+#!   ORDER="500000000000036"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="23636"
+#! >
+#!     <OUTPUT_FEAT NAME="SORTED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="system" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="use" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Conns.sum" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_PROCESSING_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="SORT_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SORT_PARM" PARM_VALUE="system NATURAL ASCENDING use NATURAL ASCENDING"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Sorter"/>
+#! </TRANSFORMER>
+#! </TRANSFORMERS>
+#! <FEAT_LINKS>
+#! <FEAT_LINK
+#!   IDENTIFIER="7"
+#!   SOURCE_NODE="2"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="fo 0 CREATED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="10"
+#!   SOURCE_NODE="6"
+#!   TARGET_NODE="9"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="13"
+#!   SOURCE_NODE="9"
+#!   TARGET_NODE="11"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="true"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="12"
+#!   SOURCE_NODE="11"
+#!   TARGET_NODE="4"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 INITIATOR"
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="16"
+#!   SOURCE_NODE="11"
+#!   TARGET_NODE="15"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 INITIATOR"
+#!   ENABLED="true"
+#!   EXECUTION_IDX="1"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="18"
+#!   SOURCE_NODE="11"
+#!   TARGET_NODE="17"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 INITIATOR"
+#!   ENABLED="true"
+#!   EXECUTION_IDX="2"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="30"
+#!   SOURCE_NODE="19"
+#!   TARGET_NODE="29"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="37"
+#!   SOURCE_NODE="21"
+#!   TARGET_NODE="36"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="44"
+#!   SOURCE_NODE="23"
+#!   TARGET_NODE="43"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="48"
+#!   SOURCE_NODE="25"
+#!   TARGET_NODE="42"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="33"
+#!   SOURCE_NODE="29"
+#!   TARGET_NODE="31"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="true"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="32"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="25"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="40"
+#!   SOURCE_NODE="36"
+#!   TARGET_NODE="38"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="true"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="39"
+#!   SOURCE_NODE="38"
+#!   TARGET_NODE="25"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="51"
+#!   SOURCE_NODE="42"
+#!   TARGET_NODE="49"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="47"
+#!   SOURCE_NODE="43"
+#!   TARGET_NODE="45"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="true"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="46"
+#!   SOURCE_NODE="45"
+#!   TARGET_NODE="25"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="58"
+#!   SOURCE_NODE="49"
+#!   TARGET_NODE="54"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="63"
+#!   SOURCE_NODE="53"
+#!   TARGET_NODE="62"
+#!   SOURCE_PORT_DESC="fo 0 SUMMARY"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="56"
+#!   SOURCE_NODE="54"
+#!   TARGET_NODE="59"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="true"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="57"
+#!   SOURCE_NODE="55"
+#!   TARGET_NODE="53"
+#!   SOURCE_PORT_DESC="fo 0 PASSED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="60"
+#!   SOURCE_NODE="59"
+#!   TARGET_NODE="55"
+#!   SOURCE_PORT_DESC="fo 0 Output"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="20"
+#!   SOURCE_NODE="4"
+#!   TARGET_NODE="19"
+#!   SOURCE_PORT_DESC="fo 1 StormWater-Level3-Report"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="22"
+#!   SOURCE_NODE="15"
+#!   TARGET_NODE="21"
+#!   SOURCE_PORT_DESC="fo 1 WasteWater-Level3-Report"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="24"
+#!   SOURCE_NODE="17"
+#!   TARGET_NODE="23"
+#!   SOURCE_PORT_DESC="fo 1 Water-Level3-Report"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.30196078431372547,0.30196078431372547,0.30196078431372547,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! </FEAT_LINKS>
+#! <BREAKPOINTS>
+#! </BREAKPOINTS>
+#! <ATTR_LINKS>
+#! </ATTR_LINKS>
+#! <SUBDOCUMENTS>
+#! </SUBDOCUMENTS>
+#! <LOOKUP_TABLES>
+#! </LOOKUP_TABLES>
+#! </WORKSPACE>
+
+FME_PYTHON_VERSION ArcGISPro30
+ARCGIS_COMPATIBILITY ARCGISPRO
+#! START_HEADER
+#! START_WB_HEADER
+READER_TYPE MULTI_READER
+WRITER_TYPE MULTI_WRITER
+WRITER_KEYWORD MULTI_DEST
+MULTI_DEST_DATASET null
+#! END_WB_HEADER
+#! START_WB_HEADER
+#! END_WB_HEADER
+#! END_HEADER
+
+LOG_FILENAME "$(FME_MF_DIR)connections-tech1.log"
+LOG_APPEND NO
+LOG_FILTER_MASK -1
+LOG_MAX_FEATURES 200
+LOG_MAX_RECORDED_FEATURES 200
+FME_REPROJECTION_ENGINE ESRI
+FME_IMPLICIT_CSMAP_REPROJECTION_MODE Auto
+FME_GEOMETRY_HANDLING Enhanced
+FME_STROKE_MAX_DEVIATION 0
+FME_NAMES_ENCODING UTF-8
+FME_BULK_MODE_THRESHOLD 2000
+LAST_SAVE_BUILD "FME 2023.1.1.1 (20231011 - Build 23636 - WIN64)"
+# -------------------------------------------------------------------------
+
+MULTI_READER_CONTINUE_ON_READER_FAILURE No
+
+# -------------------------------------------------------------------------
+
+MACRO WORKSPACE_NAME connections-tech1
+MACRO FME_VIEWER_APP fmedatainspector
+DEFAULT_MACRO WB_CURRENT_CONTEXT
+# -------------------------------------------------------------------------
+Tcl2 proc Creator_CoordSysRemover {} {   global FME_CoordSys;   set FME_CoordSys {}; }
+MACRO Creator_XML     NOT_ACTIVATED
+MACRO Creator_CLASSIC NOT_ACTIVATED
+MACRO Creator_2D3D    2D_GEOMETRY
+MACRO Creator_COORDS  <Unused>
+INCLUDE [ if { {Geometry Object} == {Geometry Object} } {            puts {MACRO Creator_XML *} } ]
+INCLUDE [ if { {Geometry Object} == {2D Coordinate List} } {            puts {MACRO Creator_2D3D 2D_GEOMETRY};            puts {MACRO Creator_CLASSIC *} } ]
+INCLUDE [ if { {Geometry Object} == {3D Coordinate List} } {            puts {MACRO Creator_2D3D 3D_GEOMETRY};            puts {MACRO Creator_CLASSIC *} } ]
+INCLUDE [ if { {Geometry Object} == {2D Min/Max Box} } {            set comment {                We need to turn the COORDS which are                    minX minY maxX maxY                into a full polygon list of coordinates            };            set splitCoords [split [string trim {<Unused>}]];            if { [llength $splitCoords] > 4} {               set trimmedCoords {};               foreach item $splitCoords { if { $item != {} } {lappend trimmedCoords $item} };               set splitCoords $trimmedCoords;            };            if { [llength $splitCoords] != 4 } {                error {Creator: Coordinate list is expected to be a space delimited list of four numbers as 'minx miny maxx maxy' - `<Unused>' is invalid};            };            set minX [lindex $splitCoords 0];            set minY [lindex $splitCoords 1];            set maxX [lindex $splitCoords 2];            set maxY [lindex $splitCoords 3];            puts "MACRO Creator_COORDS $minX $minY $minX $maxY $maxX $maxY $maxX $minY $minX $minY";            puts {MACRO Creator_2D3D 2D_GEOMETRY};            puts {MACRO Creator_CLASSIC *} } ]
+FACTORY_DEF {$(Creator_XML)} CreationFactory    FACTORY_NAME { Creator_XML_Creator }    CREATE_AT_END { no }    OUTPUT { FEATURE_TYPE _____CREATED______        @Geometry(FROM_ENCODED_STRING,<lt>?xml<space>version=<quote>1.0<quote><space>encoding=<quote>US_ASCII<quote><space>standalone=<quote>no<quote><space>?<gt><lt>geometry<space>dimension=<quote>2<quote><gt><lt>null<solidus><gt><lt><solidus>geometry<gt>) }
+FACTORY_DEF {$(Creator_CLASSIC)} CreationFactory    FACTORY_NAME { Creator_CLASSIC_Creator }    $(Creator_2D3D) { $(Creator_COORDS) }    CREATE_AT_END { no }    OUTPUT { FEATURE_TYPE _____CREATED______ }
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Creator_Cloner }    INPUT FEATURE_TYPE _____CREATED______        @Tcl2(Creator_CoordSysRemover)        @CoordSys()    NUMBER_OF_COPIES { 1 }    COPY_NUMBER_ATTRIBUTE { "_creation_instance" }    OUTPUT { FEATURE_TYPE Creator_CREATED        fme_feature_type Creator         }
+FACTORY_DEF * BranchingFactory   FACTORY_NAME "Creator_CREATED Brancher -1 7"   INPUT FEATURE_TYPE Creator_CREATED   TARGET_FACTORY "$(WB_CURRENT_CONTEXT)_CREATOR_BRANCH_TARGET"   MAXIMUM_COUNT None   OUTPUT PASSED FEATURE_TYPE *
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(WB_CURRENT_CONTEXT)_CREATOR_BRANCH_TARGET"   INPUT FEATURE_TYPE *  OUTPUT FEATURE_TYPE *
+# -------------------------------------------------------------------------
+DEFAULT_MACRO DateTimeStamper_EXPRESSION
+INCLUDE [    set expression {<at>DateTimeCast<openparen><at>DateTimeNow<openparen>utc<closeparen><comma>datetime<closeparen>};    if { {NO} eq {NO} } {        set expression <at>TimeZoneRemove<openparen>$expression<closeparen>;    };    if { {YES} eq {NO} } {        set expression <at>DateTimeRound<openparen>$expression<comma>down<comma>seconds<comma>1<closeparen>;    };    puts "MACRO DateTimeStamper_EXPRESSION $expression"; ]
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { DateTimeStamper }    INPUT  FEATURE_TYPE Creator_CREATED    OUTPUT { FEATURE_TYPE DateTimeStamper_OUTPUT       @EvaluateExpression(ATTR_CREATE_EXPR_PROPAGATE_MISSING_FDIV, origin_utc, $(DateTimeStamper_EXPRESSION), DateTimeStamper)        }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction }    INPUT  FEATURE_TYPE DateTimeStamper_OUTPUT    OUTPUT { FEATURE_TYPE Junction_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_2 }    INPUT  FEATURE_TYPE Junction_Output    OUTPUT { FEATURE_TYPE Junction_2_Output         }
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Junction_2 Output Splitter"   INPUT FEATURE_TYPE Junction_2_Output   OUTPUT FEATURE_TYPE Junction_2_Output_0_tvGfyYWUJeA=   OUTPUT FEATURE_TYPE Junction_2_Output_1_8yJTK7wdGRQ=   OUTPUT FEATURE_TYPE Junction_2_Output_2_YUQ6I6Jdn0k=
+# -------------------------------------------------------------------------
+MACRO FeatureReader_OUTPUT_PORTS_ENCODED StormWater-Level3-Report
+MACRO FeatureReader_DIRECTIVES ADVANCED,FME_DISCLOSURE_OPEN,ALLOW_DOLLAR_SIGNS,YES,APPLY_FILTERS,No,CASE_SENSITIVE_FEATURE_TYPES,YES,CONFIGURATION_DATASET,$(FME_MF_DIR$encode)Tech1<backslash>StormWater-Level3-Report.xls.xlsx,CREATE_FEATURE_TABLES_FROM_DATA,Yes,EXCEL_COL_NAMES,YES,EXPAND_MERGED_CELLS,Yes,EXPOSE_ATTRS_GROUP,FME_DISCLOSURE_OPEN,FORCE_DATETIME,NO,QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,Yes,READ_BLANK_AS,Missing,READ_FORM_CONTROLS,NONE,READ_RASTER_MODE,None,REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS,YES,SCAN_FOR_GEOMETRIC_TYPES,Yes,SCAN_MAX_FEATURES,1000,SCHEMA,StormWater-Level3-Report<comma>0<lt>comma<gt>ParentAssessment<lt>comma<gt>number<lt>comma<gt>10<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>1<lt>comma<gt>SWRatesQUAL<lt>comma<gt>char<lt>comma<gt>37<lt>comma<gt><lt>comma<gt><lt>comma<gt>2<lt>comma<gt>GRRatesQual<lt>comma<gt>char<lt>comma<gt>32<lt>comma<gt><lt>comma<gt><lt>comma<gt>3<lt>comma<gt>StormConns<lt>comma<gt>number<lt>comma<gt>1<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>4<lt>comma<gt>StormSUIPs<lt>comma<gt>number<lt>comma<gt>2<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>5<lt>comma<gt>StormDemUnits<lt>comma<gt>number<lt>comma<gt>1<lt>comma<gt>0<lt>comma<gt><comma>1<lt>comma<gt><lt>comma<gt><lt>comma<gt><comma>NO<lt>comma<gt>NO<lt>comma<gt>1<lt>comma<gt>C:<lt>lt<gt>backslash<lt>gt<gt>Github<lt>lt<gt>backslash<lt>gt<gt>qldc-pi-fme-taumata-dev<lt>lt<gt>backslash<lt>gt<gt>Tech1<lt>lt<gt>backslash<lt>gt<gt>StormWater-Level3-Report.xls.xlsx<lt>comma<gt><lt>quote<gt>0<lt>comma<gt>0<lt>comma<gt>5<lt>comma<gt>21069<lt>quote<gt><lt>comma<gt><lt>comma<gt>NO<lt>comma<gt>NO,SCHEMA_HANDLING_REVISION,2,SKIP_EMPTY_ROWS,YES,STRIP_SHEETNAME_SPACES,YES,TABLELIST,StormWater-Level3-Report,TRIM_ATTR_NAME_CHARACTERS,,TRIM_ATTR_NAME_WHITESPACE,Yes,USE_CUSTOM_SCHEMA,NO,XLSXR_EXPOSE_FORMAT_ATTRS,fme_basename<comma>char<openparen>50<closeparen>
+# Always provide an INTERACTION, otherwise the factory defaults to ENVELOPE_INTERSECTS
+INCLUDE [if { ( {NONE} == {<Unused>} ) || ( {($INTERACT)} == {} ) } {             puts {MACRO FCTQUERY_INTERACTION_LINE FCTQUERY_INTERACTION NONE};          } else {             puts {MACRO FCTQUERY_INTERACTION_LINE FCTQUERY_INTERACTION "NONE"};          }         ]
+# Consolidate the attribute merge options to what the factory expects
+DEFAULT_MACRO FeatureReader_COMBINE_ATTRS
+INCLUDE [       if { {MERGE} == {MERGE} } {          puts "MACRO FeatureReader_COMBINE_ATTRS PREFER_RESULT";       } else {          puts "MACRO FeatureReader_COMBINE_ATTRS MERGE";       };    ]
+INCLUDE [    puts {DEFAULT_MACRO FeatureReaderDataset_FeatureReader @EvaluateExpression(FDIV,STRING_ENCODED,$(FME_MF_DIR_ENCODED)Tech1<backslash>StormWater-Level3-Report.xls.xlsx,FeatureReader)}; ]
+FACTORY_DEF {*} QueryFactory    FACTORY_NAME { FeatureReader }    INPUT  FEATURE_TYPE Junction_2_Output_0_tvGfyYWUJeA=    $(FCTQUERY_INTERACTION_LINE)    COMBINE_ATTRIBUTES  { $(FeatureReader_COMBINE_ATTRS) }    IGNORE_NULLS        { No }    QUERYFCT_ATTRIBUTE_PREFIX { <Unused> }    COMBINE_GEOMETRY    { RESULT_ONLY }    ENABLE_CACHE        { NO }    QUERYFCT_TABLE_SEPARATOR { SPACE }    READER_TYPE         { XLSXR  }    READER_DATASET      { "$(FeatureReaderDataset_FeatureReader)" }    QUERYFCT_IDS        { "" }    READER_DIRECTIVES   { METAFILE,XLSXR }    QUERYFCT_OUTPUT     { "BASED_ON_CONNECTIONS" }    CONTINUE_ON_READER_ERROR YES    ORDER_RESULTS { "No" }    QUERYFCT_RESULT_TAGS { $(FeatureReader_OUTPUT_PORTS_ENCODED) }    QUERYFCT_SET_FME_FEATURE_TYPE YES    READER_PARAMS_WWJD     { $(FeatureReader_DIRECTIVES) }    TREAT_READER_PARAM_AMPERSANDS_AS_LITERALS YES    OUTPUT { READER_ERROR FEATURE_TYPE FeatureReader_<REJECTED>           }    OUTPUT StormWater-Level3-Report FEATURE_TYPE FeatureReader_StormWater-Level3-Report
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME FeatureReader_<Rejected> INPUT FEATURE_TYPE FeatureReader_<REJECTED>  NO_LOGGING   OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, FeatureReader<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY_NAME { AttributeRenamer }    INPUT  FEATURE_TYPE FeatureReader_StormWater-Level3-Report 	ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    MISSING_INPUT_ATTR_HANDLING { RENAME_SET_DEFAULT REMOVE } 	ATTR_ACTION { "StormConns" "Conns" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "StormDemUnits" "DemUnits" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "StormSUIPs" "Suips" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "SWRatesQUAL" "RatesQUAL" "RENAME_SET_DEFAULT" "" }    OUTPUT { OUTPUT FEATURE_TYPE AttributeRenamer_OUTPUT        }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_3 }    INPUT  FEATURE_TYPE AttributeRenamer_OUTPUT    OUTPUT { FEATURE_TYPE Junction_3_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_4 }    INPUT  FEATURE_TYPE Junction_3_Output    OUTPUT { FEATURE_TYPE Junction_4_Output         }
+# -------------------------------------------------------------------------
+MACRO FeatureReader_2_OUTPUT_PORTS_ENCODED WasteWater-Level3-Report
+MACRO FeatureReader_2_DIRECTIVES ADVANCED,FME_DISCLOSURE_OPEN,ALLOW_DOLLAR_SIGNS,YES,APPLY_FILTERS,No,CASE_SENSITIVE_FEATURE_TYPES,YES,CONFIGURATION_DATASET,$(FME_MF_DIR$encode)Tech1<backslash>WasteWater-Level3-Report.xls.xlsx,CREATE_FEATURE_TABLES_FROM_DATA,Yes,EXCEL_COL_NAMES,YES,EXPAND_MERGED_CELLS,Yes,EXPOSE_ATTRS_GROUP,FME_DISCLOSURE_OPEN,FORCE_DATETIME,NO,QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,Yes,READ_BLANK_AS,Missing,READ_FORM_CONTROLS,NONE,READ_RASTER_MODE,None,REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS,YES,SCAN_FOR_GEOMETRIC_TYPES,Yes,SCAN_MAX_FEATURES,1000,SCHEMA,WasteWater-Level3-Report<comma>0<lt>comma<gt>ParentAssessment<lt>comma<gt>number<lt>comma<gt>10<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>1<lt>comma<gt>WWRatesQual<lt>comma<gt>char<lt>comma<gt>24<lt>comma<gt><lt>comma<gt><lt>comma<gt>2<lt>comma<gt>GRRatesQual<lt>comma<gt>char<lt>comma<gt>39<lt>comma<gt><lt>comma<gt><lt>comma<gt>3<lt>comma<gt>AssNumSewerConns<lt>comma<gt>number<lt>comma<gt>2<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>4<lt>comma<gt>AssNumSewerPans<lt>comma<gt>number<lt>comma<gt>2<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>5<lt>comma<gt>AssNumSewerDem<lt>comma<gt>number<lt>comma<gt>2<lt>comma<gt>0<lt>comma<gt><comma>1<lt>comma<gt><lt>comma<gt><lt>comma<gt><comma>NO<lt>comma<gt>NO<lt>comma<gt>1<lt>comma<gt>C:<lt>lt<gt>backslash<lt>gt<gt>Github<lt>lt<gt>backslash<lt>gt<gt>qldc-pi-fme-taumata-dev<lt>lt<gt>backslash<lt>gt<gt>Tech1<lt>lt<gt>backslash<lt>gt<gt>WasteWater-Level3-Report.xls.xlsx<lt>comma<gt><lt>quote<gt>0<lt>comma<gt>0<lt>comma<gt>5<lt>comma<gt>17114<lt>quote<gt><lt>comma<gt><lt>comma<gt>NO<lt>comma<gt>NO,SCHEMA_HANDLING_REVISION,2,SKIP_EMPTY_ROWS,YES,STRIP_SHEETNAME_SPACES,YES,TABLELIST,WasteWater-Level3-Report,TRIM_ATTR_NAME_CHARACTERS,,TRIM_ATTR_NAME_WHITESPACE,Yes,USE_CUSTOM_SCHEMA,NO,XLSXR_EXPOSE_FORMAT_ATTRS,fme_basename<comma>char<openparen>50<closeparen>
+# Always provide an INTERACTION, otherwise the factory defaults to ENVELOPE_INTERSECTS
+INCLUDE [if { ( {NONE} == {<Unused>} ) || ( {($INTERACT)} == {} ) } {             puts {MACRO FCTQUERY_INTERACTION_LINE FCTQUERY_INTERACTION NONE};          } else {             puts {MACRO FCTQUERY_INTERACTION_LINE FCTQUERY_INTERACTION "NONE"};          }         ]
+# Consolidate the attribute merge options to what the factory expects
+DEFAULT_MACRO FeatureReader_2_COMBINE_ATTRS
+INCLUDE [       if { {MERGE} == {MERGE} } {          puts "MACRO FeatureReader_2_COMBINE_ATTRS PREFER_RESULT";       } else {          puts "MACRO FeatureReader_2_COMBINE_ATTRS MERGE";       };    ]
+INCLUDE [    puts {DEFAULT_MACRO FeatureReaderDataset_FeatureReader_2 @EvaluateExpression(FDIV,STRING_ENCODED,$(FME_MF_DIR_ENCODED)Tech1<backslash>WasteWater-Level3-Report.xls.xlsx,FeatureReader_2)}; ]
+FACTORY_DEF {*} QueryFactory    FACTORY_NAME { FeatureReader_2 }    INPUT  FEATURE_TYPE Junction_2_Output_1_8yJTK7wdGRQ=    $(FCTQUERY_INTERACTION_LINE)    COMBINE_ATTRIBUTES  { $(FeatureReader_2_COMBINE_ATTRS) }    IGNORE_NULLS        { No }    QUERYFCT_ATTRIBUTE_PREFIX { <Unused> }    COMBINE_GEOMETRY    { RESULT_ONLY }    ENABLE_CACHE        { NO }    QUERYFCT_TABLE_SEPARATOR { SPACE }    READER_TYPE         { XLSXR  }    READER_DATASET      { "$(FeatureReaderDataset_FeatureReader_2)" }    QUERYFCT_IDS        { "" }    READER_DIRECTIVES   { METAFILE,XLSXR }    QUERYFCT_OUTPUT     { "BASED_ON_CONNECTIONS" }    CONTINUE_ON_READER_ERROR YES    ORDER_RESULTS { "No" }    QUERYFCT_RESULT_TAGS { $(FeatureReader_2_OUTPUT_PORTS_ENCODED) }    QUERYFCT_SET_FME_FEATURE_TYPE YES    READER_PARAMS_WWJD     { $(FeatureReader_2_DIRECTIVES) }    TREAT_READER_PARAM_AMPERSANDS_AS_LITERALS YES    OUTPUT { READER_ERROR FEATURE_TYPE FeatureReader_2_<REJECTED>           }    OUTPUT WasteWater-Level3-Report FEATURE_TYPE FeatureReader_2_WasteWater-Level3-Report
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME FeatureReader_2_<Rejected> INPUT FEATURE_TYPE FeatureReader_2_<REJECTED>  NO_LOGGING   OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, FeatureReader_2<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY_NAME { AttributeRenamer_2 }    INPUT  FEATURE_TYPE FeatureReader_2_WasteWater-Level3-Report 	ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    MISSING_INPUT_ATTR_HANDLING { RENAME_SET_DEFAULT REMOVE } 	ATTR_ACTION { "AssNumSewerConns" "Conns" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "AssNumSewerDem" "DemUnits" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "AssNumSewerPans" "Suips" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "WWRatesQual" "RatesQUAL" "RENAME_SET_DEFAULT" "" }    OUTPUT { OUTPUT FEATURE_TYPE AttributeRenamer_2_OUTPUT        }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_5 }    INPUT  FEATURE_TYPE AttributeRenamer_2_OUTPUT    OUTPUT { FEATURE_TYPE Junction_5_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_6 }    INPUT  FEATURE_TYPE Junction_5_Output    OUTPUT { FEATURE_TYPE Junction_6_Output         }
+# -------------------------------------------------------------------------
+MACRO FeatureReader_3_OUTPUT_PORTS_ENCODED Water-Level3-Report
+MACRO FeatureReader_3_DIRECTIVES ADVANCED,FME_DISCLOSURE_OPEN,ALLOW_DOLLAR_SIGNS,YES,APPLY_FILTERS,No,CASE_SENSITIVE_FEATURE_TYPES,YES,CONFIGURATION_DATASET,$(FME_MF_DIR$encode)Tech1<backslash>Water-Level3-Report.xls.xlsx,CREATE_FEATURE_TABLES_FROM_DATA,Yes,EXCEL_COL_NAMES,YES,EXPAND_MERGED_CELLS,Yes,EXPOSE_ATTRS_GROUP,FME_DISCLOSURE_OPEN,FORCE_DATETIME,NO,QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,Yes,READ_BLANK_AS,Missing,READ_FORM_CONTROLS,NONE,READ_RASTER_MODE,None,REPLACE_ONLY_NEWLINES_CARRIAGE_RETURNS,YES,SCAN_FOR_GEOMETRIC_TYPES,Yes,SCAN_MAX_FEATURES,1000,SCHEMA,Water-Level3-Report<comma>0<lt>comma<gt>ParentAssessment<lt>comma<gt>date<lt>comma<gt><lt>comma<gt><lt>comma<gt><lt>comma<gt>1<lt>comma<gt>WSRatesQUAL<lt>comma<gt>char<lt>comma<gt>32<lt>comma<gt><lt>comma<gt><lt>comma<gt>2<lt>comma<gt>WSRatesQualLU<lt>comma<gt>char<lt>comma<gt>44<lt>comma<gt><lt>comma<gt><lt>comma<gt>3<lt>comma<gt>GRRatesQual<lt>comma<gt>char<lt>comma<gt>39<lt>comma<gt><lt>comma<gt><lt>comma<gt>4<lt>comma<gt>WaterConns<lt>comma<gt>number<lt>comma<gt>1<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>5<lt>comma<gt>WaterSUIPs<lt>comma<gt>number<lt>comma<gt>2<lt>comma<gt>0<lt>comma<gt><lt>comma<gt>6<lt>comma<gt>WaterDemUnits<lt>comma<gt>number<lt>comma<gt>2<lt>comma<gt>0<lt>comma<gt><comma>1<lt>comma<gt><lt>comma<gt><lt>comma<gt><comma>NO<lt>comma<gt>NO<lt>comma<gt>1<lt>comma<gt>C:<lt>lt<gt>backslash<lt>gt<gt>Github<lt>lt<gt>backslash<lt>gt<gt>qldc-pi-fme-taumata-dev<lt>lt<gt>backslash<lt>gt<gt>Tech1<lt>lt<gt>backslash<lt>gt<gt>Water-Level3-Report.xls.xlsx<lt>comma<gt><lt>quote<gt>0<lt>comma<gt>0<lt>comma<gt>6<lt>comma<gt>20766<lt>quote<gt><lt>comma<gt><lt>comma<gt>NO<lt>comma<gt>NO,SCHEMA_HANDLING_REVISION,2,SKIP_EMPTY_ROWS,YES,STRIP_SHEETNAME_SPACES,YES,TABLELIST,Water-Level3-Report,TRIM_ATTR_NAME_CHARACTERS,,TRIM_ATTR_NAME_WHITESPACE,Yes,USE_CUSTOM_SCHEMA,NO,XLSXR_EXPOSE_FORMAT_ATTRS,fme_basename<comma>char<openparen>50<closeparen>
+# Always provide an INTERACTION, otherwise the factory defaults to ENVELOPE_INTERSECTS
+INCLUDE [if { ( {NONE} == {<Unused>} ) || ( {($INTERACT)} == {} ) } {             puts {MACRO FCTQUERY_INTERACTION_LINE FCTQUERY_INTERACTION NONE};          } else {             puts {MACRO FCTQUERY_INTERACTION_LINE FCTQUERY_INTERACTION "NONE"};          }         ]
+# Consolidate the attribute merge options to what the factory expects
+DEFAULT_MACRO FeatureReader_3_COMBINE_ATTRS
+INCLUDE [       if { {MERGE} == {MERGE} } {          puts "MACRO FeatureReader_3_COMBINE_ATTRS PREFER_RESULT";       } else {          puts "MACRO FeatureReader_3_COMBINE_ATTRS MERGE";       };    ]
+INCLUDE [    puts {DEFAULT_MACRO FeatureReaderDataset_FeatureReader_3 @EvaluateExpression(FDIV,STRING_ENCODED,$(FME_MF_DIR_ENCODED)Tech1<backslash>Water-Level3-Report.xls.xlsx,FeatureReader_3)}; ]
+FACTORY_DEF {*} QueryFactory    FACTORY_NAME { FeatureReader_3 }    INPUT  FEATURE_TYPE Junction_2_Output_2_YUQ6I6Jdn0k=    $(FCTQUERY_INTERACTION_LINE)    COMBINE_ATTRIBUTES  { $(FeatureReader_3_COMBINE_ATTRS) }    IGNORE_NULLS        { No }    QUERYFCT_ATTRIBUTE_PREFIX { <Unused> }    COMBINE_GEOMETRY    { RESULT_ONLY }    ENABLE_CACHE        { NO }    QUERYFCT_TABLE_SEPARATOR { SPACE }    READER_TYPE         { XLSXR  }    READER_DATASET      { "$(FeatureReaderDataset_FeatureReader_3)" }    QUERYFCT_IDS        { "" }    READER_DIRECTIVES   { METAFILE,XLSXR }    QUERYFCT_OUTPUT     { "BASED_ON_CONNECTIONS" }    CONTINUE_ON_READER_ERROR YES    ORDER_RESULTS { "No" }    QUERYFCT_RESULT_TAGS { $(FeatureReader_3_OUTPUT_PORTS_ENCODED) }    QUERYFCT_SET_FME_FEATURE_TYPE YES    READER_PARAMS_WWJD     { $(FeatureReader_3_DIRECTIVES) }    TREAT_READER_PARAM_AMPERSANDS_AS_LITERALS YES    OUTPUT { READER_ERROR FEATURE_TYPE FeatureReader_3_<REJECTED>           }    OUTPUT Water-Level3-Report FEATURE_TYPE FeatureReader_3_Water-Level3-Report
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME FeatureReader_3_<Rejected> INPUT FEATURE_TYPE FeatureReader_3_<REJECTED>  NO_LOGGING   OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, FeatureReader_3<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY_NAME { AttributeRenamer_3 }    INPUT  FEATURE_TYPE FeatureReader_3_Water-Level3-Report 	ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    MISSING_INPUT_ATTR_HANDLING { RENAME_SET_DEFAULT REMOVE } 	ATTR_ACTION { "WaterConns" "Conns" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "WaterDemUnits" "DemUnits" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "WaterSUIPs" "Suips" "RENAME_SET_DEFAULT" "" }      ATTR_ACTION { "WSRatesQUAL" "RatesQUAL" "RENAME_SET_DEFAULT" "" }    OUTPUT { OUTPUT FEATURE_TYPE AttributeRenamer_3_OUTPUT        }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_7 }    INPUT  FEATURE_TYPE AttributeRenamer_3_OUTPUT    OUTPUT { FEATURE_TYPE Junction_7_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_8 }    INPUT  FEATURE_TYPE Junction_7_Output    OUTPUT { FEATURE_TYPE Junction_8_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY_NAME { AttributeManager }    INPUT  FEATURE_TYPE Junction_4_Output    INPUT  FEATURE_TYPE Junction_6_Output    INPUT  FEATURE_TYPE Junction_8_Output    MULTI_FEATURE_MODE { NO }    NULL_ATTR_MODE { NO_OP }    ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 4    DEF_VAL_COLUMN 2    NUM_OF_COLUMNS 5    MISSING_INPUT_ATTR_HANDLING RENAME_SET_VALUE REMOVE    ATTR_ACTION { "fme_basename" "fme_basename" "" "varchar<openparen>50<closeparen>" "NO_OP" }      ATTR_ACTION { "_creation_instance" "_creation_instance" "" "uint64" "NO_OP" }      ATTR_ACTION { "origin_utc" "origin_utc" "" "buffer" "NO_OP" }      ATTR_ACTION { "ParentAssessment" "ParentAssessment" "" "int64" "NO_OP" }      ATTR_ACTION { "GRRatesQual" "GRRatesQual" "" "varchar<openparen>32<closeparen>" "NO_OP" }      ATTR_ACTION { "Conns" "Conns" "" "int16" "NO_OP" }      ATTR_ACTION { "DemUnits" "DemUnits" "" "int16" "NO_OP" }      ATTR_ACTION { "Suips" "Suips" "" "int16" "NO_OP" }      ATTR_ACTION { "RatesQUAL" "RatesQUAL" "" "varchar<openparen>37<closeparen>" "NO_OP" }      ATTR_ACTION { "WSRatesQualLU" "WSRatesQualLU" "" "varchar<openparen>44<closeparen>" "REMOVE" }    OUTPUT { OUTPUT FEATURE_TYPE AttributeManager_OUTPUT        }
+# -------------------------------------------------------------------------
+Lookup AttributeValueMapper_LOOKUP_TABLE   Water-Level3-Report.xls Water<space>Supply   StormWater-Level3-Report.xls Stormwater   WasteWater-Level3-Report.xls Wastewater   ""              ""   ENCODED_SUPPORTUNICODE
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { AttributeValueMapper }    INPUT  FEATURE_TYPE AttributeManager_OUTPUT    OUTPUT { FEATURE_TYPE AttributeValueMapper_OUTPUT         @Lookup(AttributeValueMapper_LOOKUP_TABLE,"fme_basename",FORWARD|ENCODED_ATTR|REAL_NULL_SUPPORT, system)          }
+# -------------------------------------------------------------------------
+Lookup AttributeValueMapper_2_LOOKUP_TABLE   General<space>Rate<space>Residential Residential   General<space>Rate<space>-<space>Vacant<space>Sections Vacant   General<space>Rate<space>-<space>Mixed<space>Use<space>Accom Residential   General<space>Rate<space>Residence<space>plus<space>Flat Residential   General<space>Rate<space>Commercial Non-Residential   General<space>Rate<space>-<space>Country<space>Dwg Non-Residential   General<space>Rate<space>-<space>Accommodation Residential   General<space>Rate<space>-<space>CBD<space>Commercial Non-Residential   General<space>Rate<space>-<space>Mixed<space>Use<space>Accom<solidus>Res<space>Flat Residential   General<space>Rate<space>-<space>Primary<space>Ind. Non-Residential   General<space>Rate<space>-<space>Mixed<space>Use<space>Comm. Non-Residential   General<space>Rate<space>-<space>M<solidus>Use<space>Accom<solidus>CDw Residential   General<space>Rate<space>-<space>Ctry<space>Dwg<space>plus<space>Flat Non-Residential   General<space>Rate<space>-<space>CBD<space>Accomm. Residential   General<space>Rate<space>-<space>Other Non-Residential   General<space>Rate<space>-<space>M<solidus>Use<space>Acc<solidus>CDwg<space>Flat Residential   General<space>Rate<space>-<space>M<solidus>Use<space>Com<space>C<solidus>Dwg Non-Residential   General<space>Rate<space>50% Non-Residential   General<space>Rate<space>50%<space>Commercial Non-Residential   General<space>Rate<space>-<space>Hydro<solidus>Utility Non-Residential   General<space>Rate<space>-<space>M<solidus>Use<space>Com.<space>10% Non-Residential   ""              Other   ENCODED_SUPPORTUNICODE
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { AttributeValueMapper_2 }    INPUT  FEATURE_TYPE AttributeValueMapper_OUTPUT    OUTPUT { FEATURE_TYPE AttributeValueMapper_2_OUTPUT         @Lookup(AttributeValueMapper_2_LOOKUP_TABLE,"GRRatesQual",FORWARD|ENCODED_ATTR|REAL_NULL_SUPPORT, use)          }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_9 }    INPUT  FEATURE_TYPE AttributeValueMapper_2_OUTPUT    OUTPUT { FEATURE_TYPE Junction_9_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { Junction_10 }    INPUT  FEATURE_TYPE Junction_9_Output    OUTPUT { FEATURE_TYPE Junction_10_Output         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TestFactory    FACTORY_NAME { Tester }    INPUT  FEATURE_TYPE Junction_10_Output    TEST { "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>use<closeparen>,Tester)" != Vacant ENCODED } TEST { "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>use<closeparen>,Tester)" != Other ENCODED }    BOOLEAN_OPERATOR { AND }    COMPOSITE_TEST_EXPR { "<Unused>" }    PRESERVE_FEATURE_ORDER { PER_OUTPUT_PORT }    OUTPUT { PASSED FEATURE_TYPE Tester_PASSED         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} StatisticsCalculatorFactory    FACTORY_NAME { StatisticsCalculator }    INPUT  FEATURE_TYPE Tester_PASSED    GROUP_BY { system use }    FLUSH_WHEN_GROUPS_CHANGE { No }    FEAT_STATS { Conns,NUMERIC_MODE,,,,SUM,,,,,,,,, }    ADVANCED_MODE { NO }    CUMULATIVE_STATS {  }    CALCULATION_MODE { NUMERIC }    ATTRIBUTE_NAMES_AND_TYPES { fme_basename,varchar<openparen>50<closeparen>,_creation_instance,uint64,origin_utc,buffer,ParentAssessment,int64,GRRatesQual,varchar<openparen>32<closeparen>,Conns,int16,DemUnits,int16,Suips,int16,RatesQUAL,varchar<openparen>37<closeparen>,system,buffer,use,buffer }    TREAT_INVALID_AS_NULL Yes    OUTPUT { SUMMARY FEATURE_TYPE StatisticsCalculator_SUMMARY        }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} SortFactory    FACTORY_NAME { Sorter }    INPUT  FEATURE_TYPE StatisticsCalculator_SUMMARY    SORT_ALPHA_AS_UTF8 { YES }    FLUSH_WHEN_GROUPS_CHANGE { <Unused> }    SORT_BY { system NATURAL ASCENDING use NATURAL ASCENDING }
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
+
